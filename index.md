@@ -37,9 +37,25 @@ Xiaobao Wang (王晓宝) is currently an associate professor in Tianjin Universi
 
 ## Contact {#contact}
 
-<p><i class="fa fa-map-marker"></i> Room A-303, Building 55, Tianjin University</p>
-<p><i class="fa fa-envelope"></i> <a href="mailto:wangxiaobao@tju.edu.cn">wangxiaobao@tju.edu.cn</a></p>
-<p><i class="fa fa-phone"></i> (86) 131-3221-7073</p>
+<table class="contact-info">
+  <tr>
+    <td class="label">Address</td>
+    <td>
+      Room A-303, Building 55<br>
+      Peiyang Park Campus, Tianjin University<br>
+      No.135, Yaguan Road, Tianjin Haihe Education Park<br>
+      Tianjin, China, 300350
+    </td>
+  </tr>
+  <tr>
+    <td class="label">Email</td>
+    <td><a href="mailto:wangxiaobao@tju.edu.cn">wangxiaobao@tju.edu.cn</a></td>
+  </tr>
+  <tr>
+    <td class="label">Phone</td>
+    <td>(86) 131-3221-7073</td>
+  </tr>
+</table>
 
 ## Groups {#groups}
 
@@ -47,6 +63,5 @@ Xiaobao Wang (王晓宝) is currently an associate professor in Tianjin Universi
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
 
-{% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
