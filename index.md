@@ -34,7 +34,7 @@ Xiaobao Wang (王晓宝) is currently an associate professor in Tianjin Universi
 
 <table class="contact-info">
   <tr>
-    <td class="label"><i class="fa fa-map-marker"></i>Address</td>
+    <td class="label"><i class="fa fa-map-marker"></i>  Address</td>
     <td>
       Room A-303, Building 55<br>
       Peiyang Park Campus, Tianjin University<br>
@@ -43,16 +43,49 @@ Xiaobao Wang (王晓宝) is currently an associate professor in Tianjin Universi
     </td>
   </tr>
   <tr>
-    <td class="label"><i class="fa fa-envelope"></i>Email</td>
+    <td class="label"><i class="fa fa-envelope"></i>  Email</td>
     <td><a href="mailto:wangxiaobao@tju.edu.cn">wangxiaobao@tju.edu.cn</a></td>
   </tr>
   <tr>
-    <td class="label"><i class="fa fa-phone"></i>Phone</td>
+    <td class="label"><i class="fa fa-phone"></i>  Phone</td>
     <td>(86) 131-3221-7073</td>
   </tr>
 </table>
 
 ## Groups {#groups}
+
+<table class="contact-info">
+  <tr>
+    <td class="label">Ph.D. Students</td>
+    <td>
+      Bingdao Feng (冯炳道)	Runze Lee (李润泽)
+      2021~	2022~
+      Fengyu Yan (严丰宇)	Yiqi Dong (董一琪)
+      2023~	2024~
+    </td>
+  </tr>
+  <tr>
+    <td class="label">Master Students</td>
+    <td>
+      Cui Jiaqi (崔佳琪)	Yujun Zhang (张宇君)
+      2022~	2022~
+      Jinghan Zhang (张敬涵)	Jun Yang (杨珺)
+      2022~	2023~
+      Jingyi Cao (曹靖怡)
+      2023~
+    </td>
+  </tr>
+  <tr>
+    <td class="label">Alumni</td>
+    <td>
+      Yiqi Dong (董一琪)	Master 2024, 3 CCF-A papers IJCAI/AAAI, Pursue a PhD in TJU
+      Zhe Yu (于哲)	Master 2024, 1 CCF-A paper IJCAI
+      Huiying Ma (马慧颖)	Master 2024, 1 CCF-A paper IJCAI
+      Zhiqiang Wang (王志强)	Master 2024, Sign up with Kwai(快手)
+      Lingshan Lee (李灵山)	Master 2024, Sign up with China Development Bank(国家开发银行)
+    </td>
+  </tr>
+</table>
 
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
