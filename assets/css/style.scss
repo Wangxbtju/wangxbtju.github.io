@@ -53,30 +53,31 @@ section {
   padding: 80px 20px;
 }
 
-
 .contact-info {
-  max-width: 600px;
-  margin: 40px auto;
-  font-size: 16px;
-  line-height: 1.6;
-  color: #333;
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-size: 0.95rem;
 }
 
-.contact-item {
-  margin-bottom: 20px;
+.contact-info .label {
+  font-weight: bold;
+  vertical-align: top;
+  padding-right: 1.5rem;
+  padding-bottom: 0.8rem;
+  white-space: nowrap;
 }
 
-.contact-item strong {
-  display: inline-block;
-  width: 100px;
-  color: #555;
+.contact-info td {
+  padding-bottom: 0.8rem;
+  line-height: 1.5;
 }
 
-.contact-item a {
-  color: #007acc;
+.contact-info a {
   text-decoration: none;
+  color: #0066cc;
 }
 
-.contact-item a:hover {
+.contact-info a:hover {
   text-decoration: underline;
 }
