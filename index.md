@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+## About Me {#about}
 
 Xiaobao Wang (王晓宝) is currently an associate professor in Tianjin University (TJU), China. He received his B.A., M.E., and Ph.D. degrees from Tianjin University, under the supervision of Prof. Jianwu Dang (党建武) and Prof. Di Jin (金弟) . His postdoctoral advisor was Prof. Longbiao Wang (王龙标) . His research interests include graph neural networks, complex network analysis, and the safety of large language models. He has published numerous papers in top-tier conferences and journals, such as AAAI, WWW, IJCAI, and IEEE TKDE.
 
@@ -10,41 +10,41 @@ Xiaobao Wang (王晓宝) is currently an associate professor in Tianjin Universi
 
 <strong style="color:red">Call for graduate and undergraduate students! I hope you are dedicated, determined and have basic programming and math skills. I also hope you can enjoy learning and life. Please feel free to contact me via email.</strong>
 
-## Experience
+## Experience {#experience}
 
 - **2022 - 2024:** Assistant Professor @ Tianjin University
 - **2024 - now:** Associate Professor @ Tianjin University
 
-## Education
+## Education {#education}
 
 - **2017 - 2022:** PhD in College of Intelligence and Computing, Tianjin University, China
 - **2015 - 2017:** MS in College of Intelligence and Computing, Tianjin University, China
 - **2011 - 2015:** BS in College of Intelligence and Computing, Tianjin University, China
 
-## Awards
+## Awards {#awards}
 - **2021 Global Top 100 Chinese Rising Stars in Artificial Intelligence** 
 - **The 10th China National Conference on Social Media Processing (SMP), best paper award, 2022**
 - **Excellent PhD graduate of Tianjin University, 2022**
 - **Excellent PhD Thesis of Tianjin University, 2022**
 
-## Publications (*Corresponding author)  [Google Scholar]   [DBLP]
+## Publications (*Corresponding author) {#publications}
+{% include_relative _includes/publications.md %}
 - <font size="4">2025</font>
 - **2021 Global Top 100 Chinese Rising Stars in Artificial Intelligence** 
 - **The 10th China National Conference on Social Media Processing (SMP), best paper award, 2022**
 - **Excellent PhD graduate of Tianjin University, 2022**
 - **Excellent PhD Thesis of Tianjin University, 2022**
 
-## Research Interests
+## Contact {#contact}
 
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
-## News
+## Groups {#groups}
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **Computer Vision:** image recognition, image generation, video captioning
+- **Machine Learning:** meta-learning, incremental learning, transfer learning
+
 
 {% include_relative _includes/publications.md %}
 
