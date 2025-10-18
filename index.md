@@ -37,8 +37,30 @@ Xiaobao Wang (王晓宝) is currently an associate professor in Tianjin Universi
 
 ## Contact {#contact}
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+<div class="contact-info">
+  <div class="contact-item">
+    <strong>Address</strong><br>
+    Room A-303, Building 55<br>
+    Peiyang Park Campus, Tianjin University<br>
+    No.135, Yaguan Road, Tianjin Haihe Education Park<br>
+    Tianjin, China, 300350
+  </div>
+
+  <hr>
+
+  <div class="contact-item">
+    <strong>Email</strong><br>
+    <a href="mailto:wangxiaobao@tju.edu.cn">wangxiaobao@tju.edu.cn</a>
+  </div>
+
+  <hr>
+
+  <div class="contact-item">
+    <strong>Phone</strong><br>
+    (86) 131-3221-7073
+  </div>
+</div>
+
 
 ## Groups {#groups}
 
