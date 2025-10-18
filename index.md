@@ -29,11 +29,6 @@ Xiaobao Wang (王晓宝) is currently an associate professor in Tianjin Universi
 
 ## Publications (*Corresponding author) {#publications}
 {% include_relative _includes/publications.md %}
-- <font size="4">2025</font>
-- **2021 Global Top 100 Chinese Rising Stars in Artificial Intelligence** 
-- **The 10th China National Conference on Social Media Processing (SMP), best paper award, 2022**
-- **Excellent PhD graduate of Tianjin University, 2022**
-- **Excellent PhD Thesis of Tianjin University, 2022**
 
 ## Contact {#contact}
 
