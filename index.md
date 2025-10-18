@@ -58,30 +58,30 @@ Xiaobao Wang (王晓宝) is currently an associate professor in Tianjin Universi
   <tr>
     <td class="label">Ph.D. Students</td>
     <td>
-      Bingdao Feng (冯炳道)	Runze Lee (李润泽)
-      2021~	2022~
-      Fengyu Yan (严丰宇)	Yiqi Dong (董一琪)
+      Bingdao Feng (冯炳道)	Runze Lee (李润泽)<br>
+      2021~	2022~<br>
+      Fengyu Yan (严丰宇)	Yiqi Dong (董一琪)<br>
       2023~	2024~
     </td>
   </tr>
   <tr>
     <td class="label">Master Students</td>
     <td>
-      Cui Jiaqi (崔佳琪)	Yujun Zhang (张宇君)
-      2022~	2022~
-      Jinghan Zhang (张敬涵)	Jun Yang (杨珺)
-      2022~	2023~
-      Jingyi Cao (曹靖怡)
+      Cui Jiaqi (崔佳琪)	Yujun Zhang (张宇君)<br>
+      2022~	2022~<br>
+      Jinghan Zhang (张敬涵)	Jun Yang (杨珺)<br>
+      2022~	2023~<br>
+      Jingyi Cao (曹靖怡)<br>
       2023~
     </td>
   </tr>
   <tr>
     <td class="label">Alumni</td>
     <td>
-      Yiqi Dong (董一琪)	Master 2024, 3 CCF-A papers IJCAI/AAAI, Pursue a PhD in TJU
-      Zhe Yu (于哲)	Master 2024, 1 CCF-A paper IJCAI
-      Huiying Ma (马慧颖)	Master 2024, 1 CCF-A paper IJCAI
-      Zhiqiang Wang (王志强)	Master 2024, Sign up with Kwai(快手)
+      Yiqi Dong (董一琪)	Master 2024, 3 CCF-A papers IJCAI/AAAI, Pursue a PhD in TJU<br>
+      Zhe Yu (于哲)	Master 2024, 1 CCF-A paper IJCAI<br>
+      Huiying Ma (马慧颖)	Master 2024, 1 CCF-A paper IJCAI<br>
+      Zhiqiang Wang (王志强)	Master 2024, Sign up with Kwai(快手)<br>
       Lingshan Lee (李灵山)	Master 2024, Sign up with China Development Bank(国家开发银行)
     </td>
   </tr>
