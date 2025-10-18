@@ -6,6 +6,54 @@ body {
   color: #000000; /* 全局文字颜色 */
   font-size: 17px;
 }
+.site-nav {
+  background-color: #ffffff;
+  border-bottom: 1px solid #ddd;
+  padding: 10px 0;
+  text-align: center;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.site-nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.site-nav li {
+  display: inline-block;
+  margin: 0 15px;
+}
+
+.site-nav a {
+  color: #333;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.site-nav a:hover {
+  color: #007acc;
+}
+
+.site-nav a.active {
+  color: #007acc;
+  border-bottom: 2px solid #007acc;
+}
+
+/* 平滑滚动 */
+html {
+  scroll-behavior: smooth;
+}
+
+/* 每个区块上下留白 */
+section {
+  padding: 80px 20px;
+}
+
+
 .contact-info {
   max-width: 600px;
   margin: 40px auto;
