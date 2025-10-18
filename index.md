@@ -39,7 +39,7 @@ Xiaobao Wang (王晓宝) is currently an associate professor in Tianjin Universi
 
 <table class="contact-info">
   <tr>
-    <td class="label">Address</td>
+    <td class="label"><i class="fa fa-map-marker"></i>Address</td>
     <td>
       Room A-303, Building 55<br>
       Peiyang Park Campus, Tianjin University<br>
@@ -48,11 +48,11 @@ Xiaobao Wang (王晓宝) is currently an associate professor in Tianjin Universi
     </td>
   </tr>
   <tr>
-    <td class="label">Email</td>
+    <td class="label"><i class="fa fa-envelope"></i>Email</td>
     <td><a href="mailto:wangxiaobao@tju.edu.cn">wangxiaobao@tju.edu.cn</a></td>
   </tr>
   <tr>
-    <td class="label">Phone</td>
+    <td class="label"><i class="fa fa-phone">Phone</td>
     <td>(86) 131-3221-7073</td>
   </tr>
 </table>
