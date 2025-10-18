@@ -33,6 +33,14 @@
     <link rel="stylesheet" href="./assets/css/style-no-dark-mode.css">
     <link rel="stylesheet" href="./assets/css/publications-no-dark-mode.css">
     {% endif %}
+    <nav class="site-nav">
+      <ul>
+        {% for item in site.data.navigation %}
+          <li><a href="{{ item.link }}">{{ item.name }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+
 
   </head>
   <body>
