@@ -3,9 +3,9 @@
 - name: Experience
   link: "#experience"
 - name: Education
-link: "#education"
+  link: "#education"
 - name: Awards
-link: "#awards"
+  link: "#awards"
 - name: Publications
   link: "#publications"
 - name: Contact
