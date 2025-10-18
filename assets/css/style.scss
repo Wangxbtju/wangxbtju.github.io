@@ -7,6 +7,13 @@ body {
   font-size: 17px;
 }
 .site-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: white; /* 根据你的设计调整背景色 */
+  z-index: 1000; /* 确保导航栏在最上层 */
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* 可选：添加阴影效果 */
   background-color: #ffffff;
   border-bottom: 1px solid #ddd;
   padding: 10px 0;
