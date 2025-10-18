@@ -1,6 +1,6 @@
 main:
 
-  - title: One Prompt Fits All: Universal Graph Adaptation for Pretrained Models
+  - title: "One Prompt Fits All: Universal Graph Adaptation for Pretrained Models"
     authors: Yongqi Huang, Jitao Zhao, Dongxiao He, <strong>Xiaobao Wang</strong>, Yawen Li, Yuxiao Huang, Di jin, Zhiyong Feng.
     conference_short: NeurIPS-2025(CCF-A类会议长文)
     # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
