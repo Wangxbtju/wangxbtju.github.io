@@ -4,6 +4,7 @@ main:
     authors: Yongqi Huang, Jitao Zhao, Dongxiao He, <strong>Xiaobao Wang</strong>, Yawen Li, Yuxiao Huang, Di jin, Zhiyong Feng.
     conference_short: NeurIPS
     conference: NeurIPS-2025(CCF-A类会议长文)
+    year: 2025
     pdf: https://arxiv.org/pdf/2509.22416.pdf
     code: https://github.com/hedongxiao-tju/UniPrompt
     # bibtex: https://bib.yliu.me/MICCAI23.txt
