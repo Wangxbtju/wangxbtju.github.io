@@ -9,7 +9,7 @@
 
     {% for link in year_group.items %}
     <li>
-   <div class="col-sm-3 abbr">
+    <div class="col-sm-3 abbr">
       {% if link.conference_short %} 
       <abbr class="badge">{{ link.conference_short }}</abbr>
       {% endif %}
