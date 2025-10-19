@@ -7,6 +7,7 @@ main:
     year: 2025
     pdf: https://arxiv.org/pdf/2509.22416.pdf
     code: https://github.com/hedongxiao-tju/UniPrompt
+    page: https://arxiv.org/pdf/2509.22416
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/teaser_example_2.png
     # notes: Early Accept
@@ -91,3 +92,21 @@ main:
     pdf: https://arxiv.org/abs/2506.13322.pdf
     # code: 
     page: https://arxiv.org/abs/2506.13322
+
+  - title: "Elevating Knowledge-Enhanced Entity and Relationship Understanding for Sarcasm Detection"
+    authors: <strong>Xiaobao Wang</strong>, Yujing Wang, Dongxiao He, Zhe Yu, Yawen Li, Longbiao Wang, Jianwu Dang and Di Jin. 
+    conference_short: TKDE‌-2025
+    conference: IEEE Transactions on Knowledge and Data Engineering, 2025. (CCF-A类期刊)
+    year: 2025
+    # pdf: 
+    # code: 
+    page: https://ieeexplore.ieee.org/document/10908891
+
+  - title: "Str-GCL: Structural Commonsense Driven Graph Contrastive Learning"
+    authors: Dongxiao He, Yongqi Huang, Jitao Zhao, Di Jin, <strong>Xiaobao Wang*</strong>, Zhen Wang.
+    conference_short: WWW-2025
+    conference: The Web Conference 2025. (CCF-A类会议长文，Oral)
+    year: 2025
+    pdf: https://arxiv.org/abs/2507.07141.pdf
+    code: https://github.com/hedongxiao-tju/PiGCL
+    page: https://dl.acm.org/doi/10.1145/3696410.3714900
