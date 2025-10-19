@@ -25,9 +25,9 @@ main:
     conference_short: NeurIPS-2025
     conference: 39th Conference on Neural Information Processing Systems(CCF-A类会议长文)
     year: 2025
-    # pdf: https://arxiv.org/pdf/2509.26032.pdf
-    code: https://github.com/
-    # page: https://arxiv.org/abs/2509.26032
+    # pdf: 
+    # code: 
+    # page: 
 
   - title: "Word-Level Emotional Expression control in Zero-Shot Text-to-Speech Synthesis"
     authors: Tianrui Wang, Haoyu Wang, Meng Ge, Cheng Gong, Chunyu Qiang, Ziyang Ma, Zikang Huang, Guanrou Yang, <strong>Xiaobao Wang</strong>, EngSiong Chngo, Xie Chen, Longbiao Wang, Jianwu Dang.
@@ -44,7 +44,7 @@ main:
     conference: 34th International Joint Conference on Artificial Intelligence‌(CCF-A类会议长文)
     year: 2025
     pdf: https://arxiv.org/pdf/2505.18002.pdf
-    code: https://github.com/
+    # code: 
     page: https://arxiv.org/pdf/2505.18002
     
   - title: "A Dynamic Knowledge Update-Driven Model with Large Language Models for Fake News Detection"
@@ -53,6 +53,41 @@ main:
     conference: 34th International Joint Conference on Artificial Intelligence‌(CCF-A类会议长文)
     year: 2025
     pdf: https://arxiv.org/abs/2509.11687.pdf
-    code: https://github.com/
+    # code: 
     page: https://arxiv.org/abs/2509.11687
-   
+
+  - title: "Exploiting Self-Refining Normal Graph Structures for Robust Defense against Unsupervised Adversarial Attacks"
+    authors: Bingdao Feng, Di Jin*, <strong>Xiaobao Wang</strong>, Dongxiao He, Jingyi Cao, Zhen Wang.  
+    conference_short: IJCAI-2025
+    conference: 34th International Joint Conference on Artificial Intelligence‌(CCF-A类会议长文)
+    year: 2025
+    pdf: https://www.ijcai.org/proceedings/2025/0311.pdf
+    # code: 
+    page: https://www.ijcai.org/proceedings/2025/311
+
+  - title: "Single-Node Trigger Backdoor Attacks in Graph-Based Recommendation Systems"
+    authors: Runze Li, Di Jin, <strong>Xiaobao Wang*</strong>, Dongxiao He, Bingdao Feng, Zhen Wang.  
+    conference_short: IJCAI-2025
+    conference: 34th International Joint Conference on Artificial Intelligence‌(CCF-A类会议长文)
+    year: 2025
+    pdf: https://arxiv.org/abs/2506.08401.pdf
+    # code: 
+    page: https://arxiv.org/abs/2506.08401
+
+  - title: "Intergration of Old and New Knowledge for Generalized Intent Discovery: A Consistency-driven Prototype-Prompting Framework"
+    authors: Xiao Wei, <strong>Xiaobao Wang*</strong>, Ning Zhuang, Chenyang Wang, Longbiao Wang*, and Jianwu Dang. 
+    conference_short: IJCAI-2025
+    conference: 34th International Joint Conference on Artificial Intelligence‌(CCF-A类会议长文)
+    year: 2025
+    # pdf: 
+    # code: 
+    # page: 
+
+  - title: "Active Multimodal Distillation for Few-shot Action Recognition"
+    authors: Weijia Feng, Yichen Zhu, Ruojia Zhang , Chenyang Wang, Fei Ma, <strong>Xiaobao Wang</strong>, Xiaobai Li . 
+    conference_short: IJCAI-2025
+    conference: 34th International Joint Conference on Artificial Intelligence‌(CCF-A类会议长文)
+    year: 2025
+    pdf: https://arxiv.org/abs/2506.13322.pdf
+    # code: 
+    page: https://arxiv.org/abs/2506.13322
