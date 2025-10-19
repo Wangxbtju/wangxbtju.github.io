@@ -2,8 +2,8 @@ main:
 
   - title: "One Prompt Fits All: Universal Graph Adaptation for Pretrained Models"
     authors: Yongqi Huang, Jitao Zhao, Dongxiao He, <strong>Xiaobao Wang</strong>, Yawen Li, Yuxiao Huang, Di jin, Zhiyong Feng.
-    conference_short: NeurIPS
-    conference: NeurIPS-2025(CCF-A类会议长文)
+    conference_short: NeurIPS-2025
+    conference: 39th Conference on Neural Information Processing Systems(CCF-A类会议长文)
     year: 2025
     pdf: https://arxiv.org/pdf/2509.22416.pdf
     code: https://github.com/hedongxiao-tju/UniPrompt
@@ -11,13 +11,48 @@ main:
     # image: ./assets/img/teaser_example_2.png
     # notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # notes: Oral Presentation
-    # image: ./assets/img/teaser_example.png
+  - title: "Stealthy Yet Effective: Distribution-Preserving Backdoor Attacks on Graph classification"
+    authors: <strong>Xiaobao Wang</strong>, Ruoxiao Sun, Yujun zhang, Bingdao Feng, Dongxiao He, Luzhi Wang, Di jin.
+    conference_short: NeurIPS-2025
+    conference: 39th Conference on Neural Information Processing Systems(CCF-A类会议长文)
+    year: 2025
+    pdf: https://arxiv.org/pdf/2509.26032.pdf
+    code: https://github.com/
+    page: https://arxiv.org/abs/2509.26032
+
+  - title: "LoSplit: Loss-Guided Dynamic Split for Training Time Defense Against Graph Backdoor Attacks"
+    authors: Di jin, Yuxiang Zhang, Bingdao Feng, <strong>Xiaobao Wang</strong>, Dongxiao He, Zhen Wang.
+    conference_short: NeurIPS-2025
+    conference: 39th Conference on Neural Information Processing Systems(CCF-A类会议长文)
+    year: 2025
+    # pdf: https://arxiv.org/pdf/2509.26032.pdf
+    code: https://github.com/
+    # page: https://arxiv.org/abs/2509.26032
+
+  - title: "Word-Level Emotional Expression control in Zero-Shot Text-to-Speech Synthesis"
+    authors: Tianrui Wang, Haoyu Wang, Meng Ge, Cheng Gong, Chunyu Qiang, Ziyang Ma, Zikang Huang, Guanrou Yang, <strong>Xiaobao Wang</strong>, EngSiong Chngo, Xie Chen, Longbiao Wang, Jianwu Dang.
+    conference_short: NeurIPS-2025
+    conference: 39th Conference on Neural Information Processing Systems(CCF-A类会议长文)
+    year: 2025
+    pdf: https://arxiv.org/abs/2509.24629.pdf
+    code: https://anonymousdemo999.github.io/.
+    page: https://arxiv.org/abs/2509.24629
+
+  - title: "Rethinking Contrastive Learning in Graph Anomaly Detection: A Clean-View Perspective"
+    authors: Di Jin, Jingyi Cao, <strong>Xiaobao Wang*</strong>, Bingdao Feng, Dongxiao He , Longbiao Wang, Jianwu Dang. 
+    conference_short: IJCAI-2025
+    conference: 34th International Joint Conference on Artificial Intelligence‌(CCF-A类会议长文)
+    year: 2025
+    pdf: https://arxiv.org/pdf/2505.18002.pdf
+    code: https://github.com/
+    page: https://arxiv.org/pdf/2505.18002
+    
+  - title: "A Dynamic Knowledge Update-Driven Model with Large Language Models for Fake News Detection"
+    authors: Di Jin , Jun Yang, <strong>Xiaobao Wang*</strong>, Junwei Zhang, Shuqi Li, Dongxiao He.  
+    conference_short: IJCAI-2025
+    conference: 34th International Joint Conference on Artificial Intelligence‌(CCF-A类会议长文)
+    year: 2025
+    pdf: https://arxiv.org/abs/2509.11687.pdf
+    code: https://github.com/
+    page: https://arxiv.org/abs/2509.11687
+   
