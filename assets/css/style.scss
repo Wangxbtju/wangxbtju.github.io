@@ -2,18 +2,21 @@
 ---
 
 @import "minimal-light";
-// * {
-//   margin: 0;
-//   padding: 0;
-//   box-sizing: border-box;
-// }
+
 body {
   color: #000000; /* 全局文字颜色 */
   font-size: 17px;
 }
+
 /* 控制整体内容宽度 */
 .wrapper {
-  max-width: 1000px;   /* 默认600，这里扩大到1000像素 */
+  max-width: 1400px;   /* 默认600，这里扩大到1000像素 */
+}
+
+.wrapper section {
+  max-width: 800px;
+  /* 如果section本身有内边距，可以重置 */
+  // padding: 0;
 }
 // @media (min-width: 768px) {
 //   .wrapper, .main-content {
