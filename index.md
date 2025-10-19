@@ -62,10 +62,10 @@ Xiaobao Wang (王晓宝) is currently an associate professor in Tianjin Universi
   <tr>
     <td class="label">Ph.D. Students</td>
     <td>
-       Bingdao Feng (冯炳道)	&emsp;&emsp;Runze Lee (李润泽)
-       2021~	&emsp;&emsp;&emsp;&emsp;2022~<br>
+       Bingdao Feng (冯炳道)	&emsp;&emsp;Runze Lee (李润泽)<br>
+       &emsp;&emsp;2021~	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2022~<br>
       Fengyu Yan (严丰宇)	&emsp;&emsp;Yiqi Dong (董一琪)<br>
-      2023~	&emsp;&emsp;&emsp;&emsp;2024~
+      &emsp;&emsp;2023~	&emsp;&emsp;&emsp;&emsp;2024~
     </td>
   </tr>
   <tr>
