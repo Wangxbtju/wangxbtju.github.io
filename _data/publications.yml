@@ -299,3 +299,75 @@ main:
     # pdf: 
     # code: 
     page: https://ieeexplore.ieee.org/document/9632396
+
+  - title: "Robust detection of link communities with summary description in social networks"
+    authors: Di Jin, <strong>Xiaobao Wang*</strong>, Dongxiao He, Jianwu Dang, Weixiong Zhang.
+    conference_short: TKDE
+    conference: IEEE Transactions on Knowledge and Data Engineering, 2021. (CCF-A类期刊)
+    year: 2023 and Previous
+    # pdf: 
+    # code: 
+    page: https://ieeexplore.ieee.org/document/8930274/
+
+  - title: "A Joint Community Detection Model: Integrating Directed and Undirected Probabilistic Graphical Models via Factor Graph with Attention Mechanism"
+    authors: Dongxiao He, Huixin Liu, Zhiyong Feng, <strong>Xiaobao Wang*</strong>, Di Jin, Wenze Song and Yuxiao Huang.
+    conference_short: IF.3.344
+    conference: IEEE Transactions on Big Data, 2021. (SCI二区, IF.3.344, 第十届全国社会媒体处理大会(SMP 2022)最佳论文奖)
+    year: 2023 and Previous
+    # pdf: 
+    # code: 
+    page: https://ieeexplore.ieee.org/document/9511816
+      
+  - title: "Identification of generalized semantic communities in large social networks"
+    authors: Di Jin, <strong>Xiaobao Wang</strong>, Mengquan Liu, Jianguo Wei, Wenhuan Lu, Francoise Fogelman-Soulié.
+    conference_short: IF.5.213
+    conference: IEEE Transactionson Network Scienceand Engineering, 2020. (SCI二区IF.5.213)
+    year: 2023 and Previous
+    # pdf: 
+    # code: 
+    page: https://ieeexplore.ieee.org/document/9149813
+
+  - title: "Topic Enhanced Sentiment Spreading Model in Social Networks Considering User Interest"
+    authors: <strong>Xiaobao Wang</strong>, Di Jin, Katarzyna Musial, Jianwu Dang.
+    conference_short: AAAI
+    conference: Association for the Advancement of Artificial Intelligence-2020. (CCF-A类会议长文，Oral)
+    year: 2023 and Previous
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/5447/5303
+    # code: 
+    page: https://ojs.aaai.org/index.php/AAAI/article/view/5447
+    
+  - title: "Emotional contagion-based social sentiment mining in social networks by introducing network communities"
+    authors: <strong>Xiaobao Wang</strong>, Di Jin, Mengquan Liu, Dongxiao He, Katarzyna Musial, Jianwu Dang.
+    conference_short: CIKM
+    conference: ACM International Conference on Information and Knowledge Management‌ - 2019. (CCF-B类会议长文)
+    year: 2023 and Previous
+    # pdf: 
+    # code: 
+    page: https://dl.acm.org/doi/10.1145/3357384.3357941
+
+  - title: "Robust detection of link communities in large social networks by exploiting link semantics"
+    authors: Di Jin, <strong>Xiaobao Wang</strong>, Ruifang He, Dongxiao He, Jianwu Dang, Weixiong Zhang.
+    conference_short: AAAI
+    conference: Association for the Advancement of Artificial Intelligence, 2018. (CCF-A类会议长文, Oral)
+    year: 2023 and Previous
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/11283/11142
+    # code: 
+    page: https://ojs.aaai.org/index.php/AAAI/article/view/11283
+    
+  - title: "Identification of generalized communities with semantics in networks with content"
+    authors: Di Jin, <strong>Xiaobao Wang</strong>, Dongxiao He, Wenhuan Lu, Francoise Fogelman-Soulié, Jianwu Dang.
+    conference_short: ICTAI
+    conference: International Conference on Tools with Artificial Intelligence-2017. (CCF-C类会议)
+    year: 2023 and Previous
+    # pdf: 
+    # code: 
+    page: https://ieeexplore.ieee.org/document/8372083
+
+  - title: "Joint identification of network communities and semantics via integrative modeling of network topologies and node contents"
+    authors: Dongxiao He, Zhiyong Feng, Di Jin, <strong>Xiaobao Wang</strong>, Weixiong Zhang.
+    conference_short: AAAI
+    conference: Association for the Advancement of Artificial Intelligence, 2017. (CCF-A类会议长文，Oral)
+    year: 2023 and Previous
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/10489/10348
+    # code: 
+    page: https://ojs.aaai.org/index.php/AAAI/article/view/10489
