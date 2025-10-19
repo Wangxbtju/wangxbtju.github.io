@@ -212,7 +212,7 @@ main:
   
   - title: "Improving Zero-shot Cross-domain Slot Filling via Transformer-based Slot Semantics Fusion"
     authors: Yuhang Li, Xiao Wei, Yuke Si*, Longbiao Wang, <strong>Xiaobao Wang*</strong>, Jianwu Dang.
-    conference_short: INTERSPEECH
+    conference_short: INTER<br>SPEECH
     conference: 2023 Annual Conference of the International Speech Communication Association, INTERSPEECH 2023. (CCF-C类会议长文)
     year: 2023 and Previous
     pdf: https://www.isca-archive.org/interspeech_2023/li23ca_interspeech.pdf
@@ -284,7 +284,7 @@ main:
     
   - title: "Improve emotional speech synthesis quality by learning explicit and implicit representations with semi-supervised training"
     authors: Jiaxu He, Cheng Gong, Longbiao Wang, Di Jin, <strong>Xiaobao Wang</strong>, Junhai Xu, Jianwu Dang.
-    conference_short: INTERSPEECH
+    conference_short: INTER<br>SPEECH
     conference: 2022 Annual Conference of the International Speech Communication Association, INTERSPEECH 2022. (CCF-C类会议长文)
     year: 2023 and Previous
     pdf: https://www.isca-archive.org/interspeech_2022/he22d_interspeech.pdf
