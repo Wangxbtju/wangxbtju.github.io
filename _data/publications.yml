@@ -2,7 +2,7 @@ main:
 
   - title: "One Prompt Fits All: Universal Graph Adaptation for Pretrained Models"
     authors: Yongqi Huang, Jitao Zhao, Dongxiao He, <strong>Xiaobao Wang</strong>, Yawen Li, Yuxiao Huang, Di jin, Zhiyong Feng.
-    conference_short: NeurIPS-2025
+    conference_short: NeurIPS
     conference: 39th Conference on Neural Information Processing Systems(CCF-A类会议长文)
     year: 2025
     pdf: https://arxiv.org/pdf/2509.22416.pdf
@@ -14,7 +14,7 @@ main:
 
   - title: "Stealthy Yet Effective: Distribution-Preserving Backdoor Attacks on Graph classification"
     authors: <strong>Xiaobao Wang</strong>, Ruoxiao Sun, Yujun zhang, Bingdao Feng, Dongxiao He, Luzhi Wang, Di jin.
-    conference_short: NeurIPS-2025
+    conference_short: NeurIPS
     conference: 39th Conference on Neural Information Processing Systems(CCF-A类会议长文)
     year: 2025
     pdf: https://arxiv.org/pdf/2509.26032.pdf
@@ -23,7 +23,7 @@ main:
 
   - title: "LoSplit: Loss-Guided Dynamic Split for Training Time Defense Against Graph Backdoor Attacks"
     authors: Di jin, Yuxiang Zhang, Bingdao Feng, <strong>Xiaobao Wang</strong>, Dongxiao He, Zhen Wang.
-    conference_short: NeurIPS-2025
+    conference_short: NeurIPS
     conference: 39th Conference on Neural Information Processing Systems(CCF-A类会议长文)
     year: 2025
     # pdf: 
@@ -32,7 +32,7 @@ main:
 
   - title: "Word-Level Emotional Expression control in Zero-Shot Text-to-Speech Synthesis"
     authors: Tianrui Wang, Haoyu Wang, Meng Ge, Cheng Gong, Chunyu Qiang, Ziyang Ma, Zikang Huang, Guanrou Yang, <strong>Xiaobao Wang</strong>, EngSiong Chngo, Xie Chen, Longbiao Wang, Jianwu Dang.
-    conference_short: NeurIPS-2025
+    conference_short: NeurIPS
     conference: 39th Conference on Neural Information Processing Systems(CCF-A类会议长文)
     year: 2025
     pdf: https://arxiv.org/abs/2509.24629.pdf
@@ -41,7 +41,7 @@ main:
 
   - title: "Rethinking Contrastive Learning in Graph Anomaly Detection: A Clean-View Perspective"
     authors: Di Jin, Jingyi Cao, <strong>Xiaobao Wang*</strong>, Bingdao Feng, Dongxiao He , Longbiao Wang, Jianwu Dang. 
-    conference_short: IJCAI-2025
+    conference_short: IJCAI
     conference: 34th International Joint Conference on Artificial Intelligence‌(CCF-A类会议长文)
     year: 2025
     pdf: https://arxiv.org/pdf/2505.18002.pdf
@@ -50,7 +50,7 @@ main:
     
   - title: "A Dynamic Knowledge Update-Driven Model with Large Language Models for Fake News Detection"
     authors: Di Jin , Jun Yang, <strong>Xiaobao Wang*</strong>, Junwei Zhang, Shuqi Li, Dongxiao He.  
-    conference_short: IJCAI-2025
+    conference_short: IJCAI
     conference: 34th International Joint Conference on Artificial Intelligence‌(CCF-A类会议长文)
     year: 2025
     pdf: https://arxiv.org/abs/2509.11687.pdf
@@ -59,7 +59,7 @@ main:
 
   - title: "Exploiting Self-Refining Normal Graph Structures for Robust Defense against Unsupervised Adversarial Attacks"
     authors: Bingdao Feng, Di Jin*, <strong>Xiaobao Wang</strong>, Dongxiao He, Jingyi Cao, Zhen Wang.  
-    conference_short: IJCAI-2025
+    conference_short: IJCAI
     conference: 34th International Joint Conference on Artificial Intelligence‌(CCF-A类会议长文)
     year: 2025
     pdf: https://www.ijcai.org/proceedings/2025/0311.pdf
@@ -68,7 +68,7 @@ main:
 
   - title: "Single-Node Trigger Backdoor Attacks in Graph-Based Recommendation Systems"
     authors: Runze Li, Di Jin, <strong>Xiaobao Wang*</strong>, Dongxiao He, Bingdao Feng, Zhen Wang.  
-    conference_short: IJCAI-2025
+    conference_short: IJCAI
     conference: 34th International Joint Conference on Artificial Intelligence‌(CCF-A类会议长文)
     year: 2025
     pdf: https://arxiv.org/abs/2506.08401.pdf
@@ -77,7 +77,7 @@ main:
 
   - title: "Intergration of Old and New Knowledge for Generalized Intent Discovery: A Consistency-driven Prototype-Prompting Framework"
     authors: Xiao Wei, <strong>Xiaobao Wang*</strong>, Ning Zhuang, Chenyang Wang, Longbiao Wang*, and Jianwu Dang. 
-    conference_short: IJCAI-2025
+    conference_short: IJCAI
     conference: 34th International Joint Conference on Artificial Intelligence‌(CCF-A类会议长文)
     year: 2025
     # pdf: 
@@ -86,7 +86,7 @@ main:
 
   - title: "Active Multimodal Distillation for Few-shot Action Recognition"
     authors: Weijia Feng, Yichen Zhu, Ruojia Zhang , Chenyang Wang, Fei Ma, <strong>Xiaobao Wang</strong>, Xiaobai Li . 
-    conference_short: IJCAI-2025
+    conference_short: IJCAI
     conference: 34th International Joint Conference on Artificial Intelligence‌(CCF-A类会议长文)
     year: 2025
     pdf: https://arxiv.org/abs/2506.13322.pdf
@@ -95,7 +95,7 @@ main:
 
   - title: "Elevating Knowledge-Enhanced Entity and Relationship Understanding for Sarcasm Detection"
     authors: <strong>Xiaobao Wang</strong>, Yujing Wang, Dongxiao He, Zhe Yu, Yawen Li, Longbiao Wang, Jianwu Dang and Di Jin. 
-    conference_short: TKDE‌-2025
+    conference_short: TKDE‌
     conference: IEEE Transactions on Knowledge and Data Engineering, 2025. (CCF-A类期刊)
     year: 2025
     # pdf: 
@@ -104,7 +104,7 @@ main:
 
   - title: "Dual Enhanced Meta-learning with Adaptive Task Scheduler for Cold-Start Recommendation"
     authors: Dongxiao He, Jiaqi Cui, <strong>Xiaobao Wang*</strong>, Guojie Song, Yuxiao Huang and Lingfei Wu.
-    conference_short: TKDE‌-2025
+    conference_short: TKDE
     conference: IEEE Transactions on Knowledge and Data Engineering, 2025. (CCF-A类期刊)
     year: 2025
     # pdf: 
@@ -113,7 +113,7 @@ main:
     
   - title: "Str-GCL: Structural Commonsense Driven Graph Contrastive Learning"
     authors: Dongxiao He, Yongqi Huang, Jitao Zhao, Di Jin, <strong>Xiaobao Wang*</strong>, Zhen Wang.
-    conference_short: WWW-2025
+    conference_short: WWW
     conference: The Web Conference 2025. (CCF-A类会议长文，Oral)
     year: 2025
     pdf: https://arxiv.org/abs/2507.07141.pdf
@@ -122,7 +122,7 @@ main:
 
   - title: "A Prompt Learning Framework with Large Language Model Augmentation for Few-shot Multi-label Intent Detection"
     authors: Ning Zhuang, Xiao Wei, Junlei Li, <strong>Xiaobao Wang*</strong>, Chenyang Wang, Longbiao Wang*, Jianwu Dang.
-    conference_short: ICASSP 2025
+    conference_short: ICASSP
     conference: International Conference on Acoustics, Speech, and Signal Processing 2025. (CCF-B类会议，语音领域顶会)
     year: 2025
     # pdf: 
@@ -131,7 +131,7 @@ main:
 
   - title: "Augmenting Short Enrollment Speech via Synthesis for Target Speaker Extraction"
     authors: Zikang Huang, Jingru Lin, Meng Ge, Yu Jiang, <strong>Xiaobao Wang</strong>, Longbiao Wang, Jianwu Dang.
-    conference_short: ICASSP 2025
+    conference_short: ICASSP
     conference: International Conference on Acoustics, Speech, and Signal Processing 2025. (CCF-B类会议，语音领域顶会)
     year: 2025
     # pdf: 
@@ -140,7 +140,7 @@ main:
   
   - title: "Graph Contrastive Learning with Multiple Information Fusion"
     authors: <strong>Xiaobao Wang</strong>, Jun Yang, Zhiqiang Wang, Dongxiao He*, Jitao Zhao, Yuxiao Huang, Di Jin.
-    conference_short: ESWA‌‌-2025
+    conference_short: ESWA‌‌
     conference: Expert Systems With Applications-2025. (SCI一区TOP期刊)
     year: 2025
     # pdf: 
@@ -149,7 +149,7 @@ main:
       
   - title: "Backdoor Attack on Propagation-based Rumor Detectors"
     authors: Di Jin, Yujun Zhang, Bingdao Feng*, <strong>Xiaobao Wang*</strong>, Dongxiao He, Zhen Wang.
-    conference_short: AAAI-2025
+    conference_short: AAAI
     conference: Thirty-Ninth AAAI Conference on Artificial Intelligence. (CCF-A类会议长文)
     year: 2025
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/33944/36099
@@ -158,7 +158,7 @@ main:
 
   - title: "Enriching Multimodal Sentiment Analysis through Textual Emotional Descriptions of Visual-Audio Content"
     authors: Sheng Wu, Dongxiao He, <strong>Xiaobao Wang*</strong>, Longbiao Wang*, Jianwu Dang.
-    conference_short: AAAI-2025
+    conference_short: AAAI
     conference: Thirty-Ninth AAAI Conference on Artificial Intelligence. (CCF-A类会议长文)
     year: 2025
     pdf: https://arxiv.org/abs/2412.10460.pdf
@@ -167,7 +167,7 @@ main:
 
   - title: "HeterGP: Bridging Heterogeneity in Graph Neural Networks with Multi-View Prompting"
     authors: Fengyu Yan, <strong>Xiaobao Wang</strong>, Dongxiao He, Longbiao Wang, Jianwu Dang, Di Jin*.
-    conference_short: AAAI-2025
+    conference_short: AAAI
     conference: Thirty-Ninth AAAI Conference on Artificial Intelligence. (CCF-A类会议长文)
     year: 2025
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/35496/37651
