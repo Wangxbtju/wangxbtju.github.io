@@ -63,20 +63,20 @@ Xiaobao Wang (王晓宝) is currently an associate professor in Tianjin Universi
     <td class="label">Ph.D. Students</td>
     <td>
        Bingdao Feng (冯炳道)	&emsp;&emsp;Runze Lee (李润泽)<br>
-       &emsp;&emsp;2021~	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2022~<br>
+       &emsp;&emsp;2021~	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2022~<br>
       Fengyu Yan (严丰宇)	&emsp;&emsp;Yiqi Dong (董一琪)<br>
-      &emsp;&emsp;2023~	&emsp;&emsp;&emsp;&emsp;2024~
+      &emsp;&emsp;2023~	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2024~
     </td>
   </tr>
   <tr>
     <td class="label">Master Students</td>
     <td>
       Cui Jiaqi (崔佳琪)	&emsp;&emsp;Yujun Zhang (张宇君)<br>
-      2022~	&emsp;&emsp;&emsp;&emsp;2022~<br>
+      &emsp;&emsp;2022~	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2022~<br>
       Jinghan Zhang (张敬涵)&emsp;&emsp;	Jun Yang (杨珺)<br>
-      2022~	&emsp;&emsp;&emsp;&emsp;2023~<br>
+      &emsp;&emsp;2022~	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2023~<br>
       Jingyi Cao (曹靖怡)<br>
-      2023~
+      &emsp;&emsp;2023~
     </td>
   </tr>
   <tr>
