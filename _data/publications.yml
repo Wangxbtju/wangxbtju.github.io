@@ -185,7 +185,7 @@ main:
 
   - title: "Backdoor attacks on unsupervised graph representation learning"
     authors: Bingdao Feng, Di Jin, <strong>Xiaobao Wang*</strong>, Fangyu Cheng, Siqi Guo. 
-    conference_short: Neural Networks
+    conference_short: Neural <br>Networks
     conference: Neural Networks-2024. (SCI一区TOP期刊)
     year: 2024
     # pdf: 
@@ -210,20 +210,92 @@ main:
     # code: 
     page: https://ojs.aaai.org/index.php/AAAI/article/view/28677
   
-  - title: "Multi-modal Sarcasm Detection Based on Dual Generative Process"
-    authors: Huiying Ma, Dongxiao He, <strong>Xiaobao Wang*</strong>, Di Jin, Meng Ge, Longbiao Wang.
-    conference_short: IJCAI
-    conference: 33th International Joint Conference on Artificial Intelligence. (CCF-A类会议长文, Oral)
+  - title: "Improving Zero-shot Cross-domain Slot Filling via Transformer-based Slot Semantics Fusion"
+    authors: Yuhang Li, Xiao Wei, Yuke Si*, Longbiao Wang, <strong>Xiaobao Wang*</strong>, Jianwu Dang.
+    conference_short: INTERSPEECH
+    conference: 2023 Annual Conference of the International Speech Communication Association, INTERSPEECH 2023. (CCF-C类会议长文)
     year: 2023 and Previous
-    pdf: https://www.ijcai.org/proceedings/2024/0252.pdf
+    pdf: https://www.isca-archive.org/interspeech_2023/li23ca_interspeech.pdf
     # code: 
-    page: https://www.ijcai.org/proceedings/2024/252
+    page: https://www.isca-archive.org/interspeech_2023/li23ca_interspeech.html
 
-  - title: "Unveiling Implicit Deceptive Patterns in Multi-modal Fake-News via-Neuro Symbolic Reasoning"
-    authors: Yiqi Dong, Dongxiao He*, <strong>Xiaobao Wang*</strong>, Youzhu Jin, Meng Ge, Carl Yang, Di Jin.
-    conference_short: AAAI
-    conference: ‌The 38th Annual AAAI Conference on Artificial Intelligence‌. (CCF-A类会议长文)
+  - title: "Commonsense Knowledge Enhanced Sentiment Dependency Graph for Sarcasm Detection"
+    authors: Zhe Yu, Di Jin, <strong>Xiaobao Wang*</strong>, Yawen Li, Longbiao Wang, Jianwu Dang.
+    conference_short: IJCAI
+    conference: ‌32th International Joint Conference on Artificial Intelligence. (CCF-A类会议长文)
     year: 2023 and Previous
-    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/35496/37651
+    pdf: https://www.ijcai.org/proceedings/2023/0269.pdf
     # code: 
-    page: https://ojs.aaai.org/index.php/AAAI/article/view/35496 
+    page: https://www.ijcai.org/proceedings/2023/269
+
+  - title: "A Generalized Deep Markov Random Fields Framework for Fake News Detection"
+    authors: Yiqi Dong, Di Jin, <strong>Xiaobao Wang*</strong>, Yawen Li, Xiaowen Su, Dongxiao He.
+    conference_short: IJCAI
+    conference: ‌32th International Joint Conference on Artificial Intelligence -2023. (CCF-A类会议长文)
+    year: 2023 and Previous
+    pdf: https://www.ijcai.org/proceedings/2023/0529.pdf
+    # code: 
+    page: https://www.ijcai.org/proceedings/2023/529
+
+  - title: "Augmenting Affective Dependency Graph via Iterative Incongruity Graph Learning for Sarcasm Detection"
+    authors: <strong>Xiaobao Wang</strong>, Yiqi Dong, Di Jin, Yawen Li, Longbiao Wang, Jianwu Dang.
+    conference_short: ‌AAAI
+    conference: ‌Thirty-Seventh AAAI Conference on Artificial Intelligence -2023. (CCF-A类会议长文，Oral)
+    year: 2023 and Previous
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/25594/25366
+    # code: 
+    page: https://ojs.aaai.org/index.php/AAAI/article/view/25594
+    
+  - title: "Local-Global Defense Against Unsupervised Adversarial Attacks on Graphs"
+    authors: Di Jin, Bingdao Feng, Siqi Guo, <strong>Xiaobao Wang*</strong>, Jianguo Wei, Zhen Wang. 
+    conference_short: ‌AAAI
+    conference: ‌Thirty-Seventh AAAI Conference on Artificial Intelligence -2023. (CCF-A类会议长文，Oral)
+    year: 2023 and Previous
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/25979/25751
+    # code: 
+    page: https://ojs.aaai.org/index.php/AAAI/article/view/25979
+
+  - title: "Speech and Noise Dual-stream Spectrogram Refine Network with Speech Distortion Loss for Robust Speech Recognition"
+    authors: Haoyu Lu, Nan Li*, Tongtong Song, Longbiao Wang, Jianwu Dang, <strong>Xiaobao Wang*</strong>, Shiliang Zhang.
+    conference_short: ICASSP
+    conference: International Conference on Acoustics, Speech, and Signal Processing-2023. (CCF-B类会议)
+    year: 2023 and Previous
+    pdf: https://arxiv.org/pdf/2305.17860.pdf
+    # code: 
+    page: https://arxiv.org/abs/2305.17860
+    
+  - title: "刻画多种潜在关系的泊松-伽马主题模型"
+    authors: Yanli Wu, Dongxiao He, <strong>Xiaobao Wang*</strong>, Shuwei Liu and Di Jin.
+    conference_short: CCDM
+    conference: CCDM-22
+    year: 2023 and Previous
+    pdf: https://bar.cnki.net/bar/download/order?id=Pmp%2F5es3RB81cmauPwpbvsPMJcfwHgIZAnUyOJG6KdpfnxH0ifbNup32DgGqxCY8V147kMAH45cdGWa6%2BOyv8a0C7prNJMM6pXVd%2BHLYnCd7b5mY%2FmsIpB5E%2FKF94iQVwddxEU3rL3oTHoiWc6PitFK57xT%2B8LhM%2BfEqYWvBGm0igmLMld3nSvbU4a5%2BOkNaUlSU0HSLnl9m7MwOtW%2FIkyVlUB5E%2By%2B%2BHmyYJ04BpIllgv7q8C%2BP7FPVW3hwYPcqveGzrp%2B41EH7caBaJ8FVkg%3D%3D
+    # code: 
+    page: https://kns.cnki.net/kcms2/article/abstract?v=uFh1Y7sXU0L-0qSJjWHfzufUq8OgPQvcf9vDth6VDi8j-GIIIrHOdkGMS0aOvqbOHdsisEQOpr4zMkYS34OpKPogp8DxhbSuMJo9gbQrBgNGuSwESC7OGsGOy-HT7ePffms3CtEbj9kjn8ByGp9qIUjdhaNo1RGo1rAqcMGQaRZPHPX2OuoCXg==&uniplatform=NZKPT&language=CHS
+
+  - title: "Inflation improves graph neural networks"
+    authors: Dongxiao He, Rui Guo, <strong>Xiaobao Wang*</strong>, Di Jin, Yuxiao Huang, Wenjun Wang. 
+    conference_short: WWW-22
+    conference: The Web Conference-22. (CCF-A类会议长文)
+    year: 2023 and Previous
+    # pdf: 
+    # code: 
+    page: https://dl.acm.org/doi/10.1145/3485447.3512193
+    
+  - title: "Improve emotional speech synthesis quality by learning explicit and implicit representations with semi-supervised training"
+    authors: Jiaxu He, Cheng Gong, Longbiao Wang, Di Jin, <strong>Xiaobao Wang</strong>, Junhai Xu, Jianwu Dang.
+    conference_short: INTERSPEECH
+    conference: 2022 Annual Conference of the International Speech Communication Association, INTERSPEECH 2022. (CCF-C类会议长文)
+    year: 2023 and Previous
+    pdf: https://www.isca-archive.org/interspeech_2022/he22d_interspeech.pdf
+    # code: 
+    page: https://www.isca-archive.org/interspeech_2022/he22d_interspeech.html
+
+  - title: "Identification of communities with multi-semantics via Bayesian generative model"
+    authors: Dongxiao He, Yanli Wu, Youyou Wang, Zhizhi Yu, Zhiyong Feng, <strong>Xiaobao Wang*</strong>, Yuxiao Huang.
+    conference_short: IF.3.344
+    conference: IEEE Transactions on Big Data, 2021. (SCI二区, IF.3.344)
+    year: 2023 and Previous
+    # pdf: 
+    # code: 
+    page: https://ieeexplore.ieee.org/document/9632396
