@@ -11,9 +11,20 @@ body {
   color: #000000; /* 全局文字颜色 */
   font-size: 17px;
 }
-/* 控制整体内容宽度 */
-.wrapper {
-  max-width: 800px;   /* 默认600，这里扩大到1000像素 */
+// /* 控制整体内容宽度 */
+// .wrapper {
+//   max-width: 800px;   /* 默认600，这里扩大到1000像素 */
+// }
+@media (min-width: 768px) {
+  .wrapper, .main-content {
+    max-width: 900px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .wrapper, .main-content {
+    max-width: 1100px;
+  }
 }
 
 .site-nav {
