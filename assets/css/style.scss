@@ -9,15 +9,13 @@ body {
 }
 
 /* 控制整体内容宽度 */
-.wrapper {
-  max-width: 1800px;   /* 默认600，这里扩大到1000像素 */
-}
+// .wrapper {
+//   max-width: 1800px;   /* 默认600，这里扩大到1000像素 */
+// }
 
-.wrapper section {
-  max-width: 1400px;
-  /* 如果section本身有内边距，可以重置 */
-  // padding: 0;
-}
+// .wrapper section {
+//   max-width: 1200px;
+// }
 // @media (min-width: 768px) {
 //   .wrapper, .main-content {
 //     max-width: 900px;
