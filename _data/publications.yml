@@ -102,6 +102,15 @@ main:
     # code: 
     page: https://ieeexplore.ieee.org/document/10908891
 
+  - title: "Dual Enhanced Meta-learning with Adaptive Task Scheduler for Cold-Start Recommendation"
+    authors: Dongxiao He, Jiaqi Cui, <strong>Xiaobao Wang*</strong>, Guojie Song, Yuxiao Huang and Lingfei Wu.
+    conference_short: TKDE‌-2025
+    conference: IEEE Transactions on Knowledge and Data Engineering, 2025. (CCF-A类期刊)
+    year: 2025
+    # pdf: 
+    # code: 
+    page: https://ieeexplore.ieee.org/document/10840305  
+    
   - title: "Str-GCL: Structural Commonsense Driven Graph Contrastive Learning"
     authors: Dongxiao He, Yongqi Huang, Jitao Zhao, Di Jin, <strong>Xiaobao Wang*</strong>, Zhen Wang.
     conference_short: WWW-2025
@@ -110,3 +119,57 @@ main:
     pdf: https://arxiv.org/abs/2507.07141.pdf
     code: https://github.com/hedongxiao-tju/PiGCL
     page: https://dl.acm.org/doi/10.1145/3696410.3714900
+
+  - title: "A Prompt Learning Framework with Large Language Model Augmentation for Few-shot Multi-label Intent Detection"
+    authors: Ning Zhuang, Xiao Wei, Junlei Li, <strong>Xiaobao Wang*</strong>, Chenyang Wang, Longbiao Wang*, Jianwu Dang.
+    conference_short: ICASSP 2025
+    conference: International Conference on Acoustics, Speech, and Signal Processing 2025. (CCF-B类会议，语音领域顶会)
+    year: 2025
+    # pdf: 
+    # code: 
+    page: https://ieeexplore.ieee.org/document/10888364
+
+  - title: "Augmenting Short Enrollment Speech via Synthesis for Target Speaker Extraction"
+    authors: Zikang Huang, Jingru Lin, Meng Ge, Yu Jiang, <strong>Xiaobao Wang</strong>, Longbiao Wang, Jianwu Dang.
+    conference_short: ICASSP 2025
+    conference: International Conference on Acoustics, Speech, and Signal Processing 2025. (CCF-B类会议，语音领域顶会)
+    year: 2025
+    # pdf: 
+    # code: 
+    page: https://ieeexplore.ieee.org/document/10889137
+  
+  - title: "Graph Contrastive Learning with Multiple Information Fusion"
+    authors: <strong>Xiaobao Wang</strong>, Jun Yang, Zhiqiang Wang, Dongxiao He*, Jitao Zhao, Yuxiao Huang, Di Jin.
+    conference_short: ESWA‌‌-2025
+    conference: Expert Systems With Applications-2025. (SCI一区TOP期刊)
+    year: 2025
+    # pdf: 
+    # code: 
+    page: https://www.sciencedirect.com/science/article/abs/pii/S0957417424029968?
+      
+  - title: "Backdoor Attack on Propagation-based Rumor Detectors"
+    authors: Di Jin, Yujun Zhang, Bingdao Feng*, <strong>Xiaobao Wang*</strong>, Dongxiao He, Zhen Wang.
+    conference_short: AAAI-2025
+    conference: Thirty-Ninth AAAI Conference on Artificial Intelligence. (CCF-A类会议长文)
+    year: 2025
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/33944/36099
+    # code: 
+    page: https://ojs.aaai.org/index.php/AAAI/article/view/33944
+
+  - title: "Enriching Multimodal Sentiment Analysis through Textual Emotional Descriptions of Visual-Audio Content"
+    authors: Sheng Wu, Dongxiao He, <strong>Xiaobao Wang*</strong>, Longbiao Wang*, Jianwu Dang.
+    conference_short: AAAI-2025
+    conference: Thirty-Ninth AAAI Conference on Artificial Intelligence. (CCF-A类会议长文)
+    year: 2025
+    pdf: https://arxiv.org/abs/2412.10460.pdf
+    # code: 
+    page: https://arxiv.org/abs/2412.10460
+
+  - title: "HeterGP: Bridging Heterogeneity in Graph Neural Networks with Multi-View Prompting"
+    authors: Fengyu Yan, <strong>Xiaobao Wang</strong>, Dongxiao He, Longbiao Wang, Jianwu Dang, Di Jin*.
+    conference_short: AAAI-2025
+    conference: Thirty-Ninth AAAI Conference on Artificial Intelligence. (CCF-A类会议长文)
+    year: 2025
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/35496/37651
+    # code: 
+    page: https://ojs.aaai.org/index.php/AAAI/article/view/35496
