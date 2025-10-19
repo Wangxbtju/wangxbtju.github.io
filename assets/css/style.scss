@@ -10,11 +10,11 @@ body {
 
 /* 控制整体内容宽度 */
 .wrapper {
-  max-width: 1400px;   /* 默认600，这里扩大到1000像素 */
+  max-width: 1600px;   /* 默认600，这里扩大到1000像素 */
 }
 
 .wrapper section {
-  max-width: 1000px;
+  max-width: 1200px;
   /* 如果section本身有内边距，可以重置 */
   // padding: 0;
 }
