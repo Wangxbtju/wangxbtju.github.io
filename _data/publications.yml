@@ -173,3 +173,57 @@ main:
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/35496/37651
     # code: 
     page: https://ojs.aaai.org/index.php/AAAI/article/view/35496
+
+  - title: "TUT4CRS: Time-aware User-preference Tracking for Conversational Recommendation System"
+    authors: Dongxiao He, Jinghan Zhang,<strong>Xiaobao Wang*</strong>, Meng Ge, Zhiyong Feng, Longbiao Wang, Xiaoke Ma. 
+    conference_short: MM
+    conference: The 32nd ACM International Conference on Multimedia. (CCF-A类会议长文)
+    year: 2024
+    # pdf: 
+    # code: 
+    page: https://dl.acm.org/doi/10.1145/3664647.3681259 
+
+  - title: "Backdoor attacks on unsupervised graph representation learning"
+    authors: Bingdao Feng, Di Jin, <strong>Xiaobao Wang*</strong>, Fangyu Cheng, Siqi Guo. 
+    conference_short: Neural Networks
+    conference: Neural Networks-2024. (SCI一区TOP期刊)
+    year: 2024
+    # pdf: 
+    # code: 
+    page: https://www.sciencedirect.com/science/article/abs/pii/S0893608024005926
+
+  - title: "Multi-modal Sarcasm Detection Based on Dual Generative Process"
+    authors: Huiying Ma, Dongxiao He, <strong>Xiaobao Wang*</strong>, Di Jin, Meng Ge, Longbiao Wang.
+    conference_short: IJCAI
+    conference: 33th International Joint Conference on Artificial Intelligence. (CCF-A类会议长文, Oral)
+    year: 2024
+    pdf: https://www.ijcai.org/proceedings/2024/0252.pdf
+    # code: 
+    page: https://www.ijcai.org/proceedings/2024/252
+
+  - title: "Unveiling Implicit Deceptive Patterns in Multi-modal Fake-News via-Neuro Symbolic Reasoning"
+    authors: Yiqi Dong, Dongxiao He*, <strong>Xiaobao Wang*</strong>, Youzhu Jin, Meng Ge, Carl Yang, Di Jin.
+    conference_short: AAAI
+    conference: ‌The 38th Annual AAAI Conference on Artificial Intelligence‌. (CCF-A类会议长文)
+    year: 2024
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/28677/29315
+    # code: 
+    page: https://ojs.aaai.org/index.php/AAAI/article/view/28677
+  
+  - title: "Multi-modal Sarcasm Detection Based on Dual Generative Process"
+    authors: Huiying Ma, Dongxiao He, <strong>Xiaobao Wang*</strong>, Di Jin, Meng Ge, Longbiao Wang.
+    conference_short: IJCAI
+    conference: 33th International Joint Conference on Artificial Intelligence. (CCF-A类会议长文, Oral)
+    year: 2023 and Previous
+    pdf: https://www.ijcai.org/proceedings/2024/0252.pdf
+    # code: 
+    page: https://www.ijcai.org/proceedings/2024/252
+
+  - title: "Unveiling Implicit Deceptive Patterns in Multi-modal Fake-News via-Neuro Symbolic Reasoning"
+    authors: Yiqi Dong, Dongxiao He*, <strong>Xiaobao Wang*</strong>, Youzhu Jin, Meng Ge, Carl Yang, Di Jin.
+    conference_short: AAAI
+    conference: ‌The 38th Annual AAAI Conference on Artificial Intelligence‌. (CCF-A类会议长文)
+    year: 2023 and Previous
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/35496/37651
+    # code: 
+    page: https://ojs.aaai.org/index.php/AAAI/article/view/35496 
