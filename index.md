@@ -10,15 +10,12 @@ Xiaobao Wang (王晓宝) is currently an associate professor in Tianjin Universi
 
 <strong style="color:red">Call for graduate and undergraduate students! I hope you are dedicated, determined and have basic programming and math skills. I also hope you can enjoy learning and life. Please feel free to contact me via email.</strong>
 
-{#experience}<br>
-<br>
-<br>
-<br>
-<br>
-## Experience 
+
+## Experience {#experience}
 
 - **2022 - 2024:** Assistant Professor @ Tianjin University
 - **2024 - now:** Associate Professor @ Tianjin University
+
 
 ## Education {#education}
 
@@ -26,11 +23,13 @@ Xiaobao Wang (王晓宝) is currently an associate professor in Tianjin Universi
 - **2015 - 2017:** MS in College of Intelligence and Computing, Tianjin University, China
 - **2011 - 2015:** BS in College of Intelligence and Computing, Tianjin University, China
 
+
 ## Awards {#awards}
 - **2021 Global Top 100 Chinese Rising Stars in Artificial Intelligence** 
 - **The 10th China National Conference on Social Media Processing (SMP), best paper award, 2022**
 - **Excellent PhD graduate of Tianjin University, 2022**
 - **Excellent PhD Thesis of Tianjin University, 2022**
+
 
 ## Publications (*Corresponding author) {#publications}
 {% include_relative _includes/publications.md %}
@@ -69,7 +68,7 @@ Xiaobao Wang (王晓宝) is currently an associate professor in Tianjin Universi
     <td>
        Bingdao Feng (冯炳道)	&emsp;&emsp;Runze Lee (李润泽)<br>
        &emsp;&emsp;2021~	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2022~<br>
-      Fengyu Yan (严丰宇)	&emsp;&emsp;&emsp;&emsp;Yiqi Dong (董一琪)<br>
+      Fengyu Yan (严丰宇)	&emsp;&emsp;&emsp;Yiqi Dong (董一琪)<br>
       &emsp;&emsp;2023~	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2024~
     </td>
   </tr>
