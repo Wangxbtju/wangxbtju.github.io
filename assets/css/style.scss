@@ -6,12 +6,14 @@
 body {
   color: #000000; /* 全局文字颜色 */
   font-size: 17px;
+  padding-top: 70px; /* 为固定导航栏留出空间 */
 }
 
 /* 控制整体内容宽度 */
-// .wrapper {
-//   max-width: 1800px;   /* 默认600，这里扩大到1000像素 */
-// }
+.wrapper {
+  // max-width: 1800px;   /* 默认600，这里扩大到1000像素 */
+  margin-top: 0;
+}
 
 // .wrapper section {
 //   max-width: 1200px;
@@ -29,12 +31,7 @@ body {
 // }
 
 .site-nav {
-  // position: fixed;
-  // top: 0;
-  // left: 0;
   width: 100%;
-  // background-color: white; /* 根据你的设计调整背景色 */
-  // z-index: 1000; /* 确保导航栏在最上层 */
   box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* 可选：添加阴影效果 */
   background-color: #ffffff;
   border-bottom: 1px solid #ddd;
@@ -62,6 +59,8 @@ body {
   text-decoration: none;
   font-weight: 500;
   font-size: 16px;
+  padding: 5px 10px;
+  transition: all 0.3s ease;
 }
 
 .site-nav a:hover {
@@ -76,11 +75,14 @@ body {
 /* 平滑滚动 */
 html {
   scroll-behavior: smooth;
+  scroll-padding-top: 70px; /* 滚动时考虑导航栏高度 */
 }
 
 /* 每个区块上下留白 */
 section {
   padding: 80px 20px;
+  /* 为锚点定位添加偏移 */
+  scroll-margin-top: 70px;
 }
 
 .contact-info {
