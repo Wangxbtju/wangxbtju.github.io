@@ -9,11 +9,12 @@ Xiaobao Wang (王晓宝) is currently an associate professor in Tianjin Universi
 王晓宝，天津大学智算学部副教授，一直从事图机器学习、社交媒体分析和大模型生成安全的研究，主持国家自然科学基金青年项目、国家重点研发子课题、中国博士后科学基金面上项目、天津大学校级人才项目等10余项项目；入选天津大学科技领军创新人才培育“启明计划”、百度全球Al华人新星百强榜（全球共100名，天津地区唯一入选）；以第一作者/通讯作者身份发表CCF A类或IEEE汇刊论文20余篇。以通讯作者获得全国社会媒体处理大会 SMP’22 最佳论文奖；长期担任 IJCAI、AAAI、NeurIPS、ICML、ICLR、MM等 CCF-A 类会议和TKDE、TNNLS、TAI、Information Sciences、Information Fusion、PR 等CCF-A 类/中科院一区期刊审稿人；担任中国计算机学会语音对话与听觉专委会委员、亚太信号与信息处理协会SLA TC Member、中国中文信息学会社会媒体处理专业委员会委员。  
 
 <strong style="color:red">Call for graduate and undergraduate students! I hope you are dedicated, determined and have basic programming and math skills. I also hope you can enjoy learning and life. Please feel free to contact me via email.</strong>
-{#experience}
 
-
-
-
+{#experience}<br>
+<br>
+<br>
+<br>
+<br>
 ## Experience 
 
 - **2022 - 2024:** Assistant Professor @ Tianjin University
@@ -67,18 +68,18 @@ Xiaobao Wang (王晓宝) is currently an associate professor in Tianjin Universi
     <td class="label">Ph.D. Students</td>
     <td>
        Bingdao Feng (冯炳道)	&emsp;&emsp;Runze Lee (李润泽)<br>
-       &emsp;&emsp;2021~	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2022~<br>
-      Fengyu Yan (严丰宇)	&emsp;&emsp;Yiqi Dong (董一琪)<br>
-      &emsp;&emsp;2023~	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2024~
+       &emsp;&emsp;2021~	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2022~<br>
+      Fengyu Yan (严丰宇)	&emsp;&emsp;&emsp;&emsp;Yiqi Dong (董一琪)<br>
+      &emsp;&emsp;2023~	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2024~
     </td>
   </tr>
   <tr>
     <td class="label">Master Students</td>
     <td>
-      Cui Jiaqi (崔佳琪)	&emsp;&emsp;Yujun Zhang (张宇君)<br>
-      &emsp;&emsp;2022~	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2022~<br>
+      Cui Jiaqi (崔佳琪)	&emsp;&emsp;&emsp;&emsp;Yujun Zhang (张宇君)<br>
+      &emsp;&emsp;2022~	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2022~<br>
       Jinghan Zhang (张敬涵)&emsp;&emsp;	Jun Yang (杨珺)<br>
-      &emsp;&emsp;2022~	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2023~<br>
+      &emsp;&emsp;2022~	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2023~<br>
       Jingyi Cao (曹靖怡)<br>
       &emsp;&emsp;2023~
     </td>
