@@ -130,6 +130,25 @@
       })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
       ga('create', '{{ site.google_analytics }}', 'auto');
       ga('send', 'pageview');
+      const sections = document.querySelectorAll("section");
+      const navLinks = document.querySelectorAll(".site-nav a");
+      
+      window.addEventListener("scroll", () => {
+        let current = "";
+        sections.forEach(section => {
+          const sectionTop = section.offsetTop - 60;
+          if (scrollY >= sectionTop) {
+            current = section.getAttribute("id");
+          }
+        });
+      
+        navLinks.forEach(link => {
+          link.classList.remove("active");
+          if (link.getAttribute("href") === "#" + current) {
+            link.classList.add("active");
+          }
+        });
+      });
     </script>
     {% endif %}
   </body>
