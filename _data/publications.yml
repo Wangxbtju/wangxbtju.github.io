@@ -1,7 +1,7 @@
 main:
 
   - title: "One Prompt Fits All: Universal Graph Adaptation for Pretrained Models"
-    authors: Yongqi Huang, Jitao Zhao, Dongxiao He, <span style="font-weight: 900;">Xiaobao Wang</span>, Yawen Li, Yuxiao Huang, Di jin, Zhiyong Feng.
+    authors: Yongqi Huang, Jitao Zhao, Dongxiao He, <span style="font-weight: 1200;">Xiaobao Wang</span>, Yawen Li, Yuxiao Huang, Di jin, Zhiyong Feng.
     conference_short: NeurIPS
     conference: 39th Conference on Neural Information Processing Systems(CCF-A类会议长文)
     year: 2025
