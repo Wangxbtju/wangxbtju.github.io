@@ -64,34 +64,76 @@ Xiaobao Wang (王晓宝) is currently an associate professor in Tianjin Universi
 
 <table class="contact-info">
   <tr>
-    <td class="label">Ph.D. Students</td>
-    <td>
-       Bingdao Feng (冯炳道)	&emsp;&emsp;Runze Lee (李润泽)<br>
-       &emsp;&emsp;2021~	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2022~<br>
-      Fengyu Yan (严丰宇)	&emsp;&emsp;&emsp;Yiqi Dong (董一琪)<br>
-      &emsp;&emsp;2023~	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2024~<br>
-      Zhiliang Xia (夏志良)<br>
-      &emsp;&emsp;2025~<br>
-    </td>
+      <td class="label">Ph.D. Students</td>
+      <td>
+          <div class="student-columns">
+              <div class="student-column">
+                  <div class="student-item">
+                      <span class="student-name">Bingdao Feng (冯炳道)</span>
+                      <span class="student-year">2021~</span>
+                  </div>
+                  <div class="student-item">
+                      <span class="student-name">Fengyu Yan (严丰宇)</span>
+                      <span class="student-year">2023~</span>
+                  </div>
+                  <div class="student-item">
+                      <span class="student-name">Zhiliang Xia (夏志良)</span>
+                      <span class="student-year">2025~</span>
+                  </div>
+              </div>
+          </div>
+      </td>
   </tr>
   <tr>
-    <td class="label">Master Students</td>
-    <td>
-      Jun Yang (杨珺)	&emsp;&emsp;&emsp;&emsp; Jingyi Cao (曹靖怡)<br>
-      &emsp;&emsp;2023~	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2023~<br>
-      Lei Zhu (朱磊) &emsp;&emsp;&emsp;	Bin Wen (文彬)<br>
-      &emsp;&emsp;2024~	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2024~<br>
-      Yao Huang (黄骁)&emsp;&emsp;&emsp; Haotian Zhao(赵昊天)<br>
-      &emsp;&emsp;2024~	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2024~<br>
-      Jinchen Song (宋金城)&emsp;&emsp;&emsp; Yujing Wang(王玉静)<br>
-      &emsp;&emsp;2024~	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2024~<br>
-      Yide Li (李贻德)&emsp;&emsp;&emsp; Ruoyao Sun(孙若骁)<br>
-      &emsp;&emsp;2025~	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2025~<br>
-      Zhaoyang Shang (尚钊洋)&emsp;&emsp;&emsp; Yuchen Liu(刘宇宸)<br>
-      &emsp;&emsp;2025~	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2025~<br>
-      Zuer Deng (邓祖儿))<br>
-      &emsp;&emsp;2025~	<br>
-    </td>
+      <td class="label">Master Students</td>
+      <td>
+          <div class="student-columns">
+              <div class="student-column">
+                  <div class="student-item">
+                      <span class="student-name">Jun Yang (杨珺)</span>
+                      <span class="student-year">2023~</span>
+                  </div>
+                  <div class="student-item">
+                      <span class="student-name">Lei Zhu (朱磊)</span>
+                      <span class="student-year">2024~</span>
+                  </div>
+                  <div class="student-item">
+                      <span class="student-name">Yao Huang (黄骁)</span>
+                      <span class="student-year">2024~</span>
+                  </div>
+                  <div class="student-item">
+                      <span class="student-name">Jinchen Song (宋金城)</span>
+                      <span class="student-year">2024~</span>
+                  </div>
+                  <div class="student-item">
+                      <span class="student-name">Runze Lee (李润泽)</span>
+                      <span class="student-year">2022~</span>
+                  </div>
+                  <div class="student-item">
+                      <span class="student-name">Yiqi Dong (董一琪)</span>
+                      <span class="student-year">2024~</span>
+                  </div>
+              </div>
+              <div class="student-column">
+                  <div class="student-item">
+                      <span class="student-name">Jingyi Cao (曹靖怡)</span>
+                      <span class="student-year">2023~</span>
+                  </div>
+                  <div class="student-item">
+                      <span class="student-name">Bin Wen (文彬)</span>
+                      <span class="student-year">2024~</span>
+                  </div>
+                  <div class="student-item">
+                      <span class="student-name">Haotian Zhao (赵昊天)</span>
+                      <span class="student-year">2024~</span>
+                  </div>
+                  <div class="student-item">
+                      <span class="student-name">Yujing Wang (王玉静)</span>
+                      <span class="student-year">2024~</span>
+                  </div>
+              </div>
+          </div>
+      </td>
   </tr>
   <tr>
     <td class="label">Alumni</td>
