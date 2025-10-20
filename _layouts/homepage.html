@@ -131,59 +131,5 @@
       ga('create', '{{ site.google_analytics }}', 'auto');
       ga('send', 'pageview');
 
-      // 导航栏高亮功能
-      document.addEventListener('DOMContentLoaded', function() {
-        const sections = document.querySelectorAll('section');
-        const navLinks = document.querySelectorAll('.site-nav a');
-        
-        // 获取导航栏高度用于偏移计算
-        const navHeight = document.querySelector('.site-nav').offsetHeight;
-        
-        // 设置内容区域的偏移
-        document.body.style.paddingTop = navHeight + 'px';
-        
-        // 更新所有section的scroll-margin
-        sections.forEach(section => {
-          section.style.scrollMarginTop = navHeight + 'px';
-        });
-      
-        // 滚动监听函数
-        function highlightNav() {
-          let current = '';
-          
-          sections.forEach(section => {
-            const sectionTop = section.offsetTop - navHeight - 10;
-            const sectionHeight = section.clientHeight;
-            if (window.scrollY >= sectionTop && window.scrollY < sectionTop + sectionHeight) {
-              current = section.getAttribute('id');
-            }
-          });
-      
-          navLinks.forEach(link => {
-            link.classList.remove('active');
-            if (link.getAttribute('href') === '#' + current) {
-              link.classList.add('active');
-            }
-          });
-        }
-      
-        // 初始化时执行一次
-        highlightNav();
-        
-        // 滚动时监听
-        window.addEventListener('scroll', highlightNav);
-        
-        // 点击导航链接时也更新高亮
-        navLinks.forEach(link => {
-          link.addEventListener('click', function() {
-            // 移除所有active类
-            navLinks.forEach(l => l.classList.remove('active'));
-            // 为当前点击的链接添加active类
-            this.classList.add('active');
-          });
-        });
-      });
-    </script>
-    {% endif %}
   </body>
 </html>
