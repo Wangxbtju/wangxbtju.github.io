@@ -69,24 +69,37 @@ Xiaobao Wang (王晓宝) is currently an associate professor in Tianjin Universi
        Bingdao Feng (冯炳道)	&emsp;&emsp;Runze Lee (李润泽)<br>
        &emsp;&emsp;2021~	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2022~<br>
       Fengyu Yan (严丰宇)	&emsp;&emsp;&emsp;Yiqi Dong (董一琪)<br>
-      &emsp;&emsp;2023~	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2024~
+      &emsp;&emsp;2023~	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2024~<br>
+      Zhiliang Xia (夏志良)<br>
+      &emsp;&emsp;2025~<br>
     </td>
   </tr>
   <tr>
     <td class="label">Master Students</td>
     <td>
-      Cui Jiaqi (崔佳琪)	&emsp;&emsp;&emsp;&emsp;Yujun Zhang (张宇君)<br>
-      &emsp;&emsp;2022~	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2022~<br>
-      Jinghan Zhang (张敬涵)&emsp;&emsp;	Jun Yang (杨珺)<br>
-      &emsp;&emsp;2022~	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2023~<br>
-      Jingyi Cao (曹靖怡)<br>
-      &emsp;&emsp;2023~
+      Jun Yang (杨珺)	&emsp;&emsp;&emsp;&emsp; Jingyi Cao (曹靖怡)<br>
+      &emsp;&emsp;2023~	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2023~<br>
+      Lei Zhu (朱磊) &emsp;&emsp;&emsp;	Bin Wen (文彬)<br>
+      &emsp;&emsp;2024~	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2024~<br>
+      Yao Huang (黄骁)&emsp;&emsp;&emsp; Haotian Zhao(赵昊天)<br>
+      &emsp;&emsp;2024~	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2024~<br>
+      Jinchen Song (宋金城)&emsp;&emsp;&emsp; Yujing Wang(王玉静)<br>
+      &emsp;&emsp;2024~	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2024~<br>
+      Yide Li (李贻德)&emsp;&emsp;&emsp; Ruoyao Sun(孙若骁)<br>
+      &emsp;&emsp;2025~	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2025~<br>
+      Zhaoyang Shang (尚钊洋)&emsp;&emsp;&emsp; Yuchen Liu(刘宇宸)<br>
+      &emsp;&emsp;2025~	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2025~<br>
+      Zuer Deng (邓祖儿))<br>
+      &emsp;&emsp;2025~	<br>
     </td>
   </tr>
   <tr>
     <td class="label">Alumni</td>
     <td>
       Yiqi Dong (董一琪)	Master 2024, 3 CCF-A papers IJCAI/AAAI, Pursue a PhD in TJU<br>
+      Cui Jiaqi (崔佳琪)   Master 2025， 1 CCF-A Paper TKDE，Sign up with 电信<br>
+      Jinghan Zhang (张敬涵) Master 2025， 1 CCF-A Paper MM，Sign up with 字节<br>
+      Yujun Zhang (张宇君)  Master 2025， 1 CCF-A Paper AAAI<br>
       Zhe Yu (于哲)	Master 2024, 1 CCF-A paper IJCAI<br>
       Huiying Ma (马慧颖)	Master 2024, 1 CCF-A paper IJCAI<br>
       Zhiqiang Wang (王志强)	Master 2024, Sign up with Kwai(快手)<br>
