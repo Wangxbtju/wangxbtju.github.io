@@ -109,15 +109,6 @@ section {
     line-height: 1.5;
 }
 
-.contact-info a {
-    text-decoration: none;
-    color: #0066cc;
-}
-
-.contact-info a:hover {
-    text-decoration: underline;
-}
-
 .student-columns {
     display: flex;
     flex-wrap: wrap;
@@ -126,18 +117,51 @@ section {
 
 .student-column {
     flex: 1;
-    min-width: 250px;
+    min-width: 200px;
+    padding-right: 1.5rem;
 }
 
 .student-item {
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.8rem;
+    display: flex;
+    justify-content: space-between;
 }
 
 .student-name {
-    display: inline-block;
-    width: 180px;
+    font-weight: 500;
 }
 
 .student-year {
     color: #666;
+    white-space: nowrap;
+}
+
+.alumni-item {
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px dashed #eee;
+}
+
+.alumni-name {
+    font-weight: 500;
+    margin-bottom: 0.2rem;
+}
+
+.alumni-details {
+    color: #555;
+    font-size: 0.9rem;
+    line-height: 1.4;
+}
+
+h2 {
+    color: #333;
+    border-bottom: 2px solid #0066cc;
+    padding-bottom: 0.5rem;
+}
+
+@media (max-width: 768px) {
+    .student-column {
+        min-width: 100%;
+        padding-right: 0;
+    }
 }
