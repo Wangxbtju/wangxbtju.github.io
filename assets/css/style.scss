@@ -103,30 +103,55 @@ section {
 }
 
 .contact-info {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 1rem 0;
-  font-size: 0.95rem;
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1rem 0;
+    font-size: 0.95rem;
 }
 
 .contact-info .label {
-  font-weight: bold;
-  vertical-align: top;
-  padding-right: 1.5rem;
-  padding-bottom: 0.8rem;
-  white-space: nowrap;
+    font-weight: bold;
+    vertical-align: top;
+    padding-right: 1.5rem;
+    padding-bottom: 0.8rem;
+    white-space: nowrap;
+    width: 15%;
 }
 
 .contact-info td {
-  padding-bottom: 0.8rem;
-  line-height: 1.5;
+    padding-bottom: 0.8rem;
+    line-height: 1.5;
 }
 
 .contact-info a {
-  text-decoration: none;
-  color: #0066cc;
+    text-decoration: none;
+    color: #0066cc;
 }
 
 .contact-info a:hover {
-  text-decoration: underline;
+    text-decoration: underline;
+}
+
+.student-columns {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.student-column {
+    flex: 1;
+    min-width: 250px;
+}
+
+.student-item {
+    margin-bottom: 0.5rem;
+}
+
+.student-name {
+    display: inline-block;
+    width: 180px;
+}
+
+.student-year {
+    color: #666;
 }
