@@ -81,8 +81,18 @@ Xiaobao Wang (王晓宝) is currently an associate professor in Tianjin Universi
                       <span class="student-year">2025~</span>
                   </div>
               </div>
+              <div class="student-column">
+                  <div class="student-item">
+                      <span class="student-name">Runze Lee (李润泽)</span>
+                      <span class="student-year">2022~</span>
+                  </div>
+                  <div class="student-item">
+                      <span class="student-name">Yiqi Dong (董一琪)</span>
+                      <span class="student-year">2024~</span>
+                 </div>
+              </div>
           </div>
-      </td>
+      </td>       
   </tr>
   <tr>
       <td class="label">Master Students</td>
@@ -106,12 +116,16 @@ Xiaobao Wang (王晓宝) is currently an associate professor in Tianjin Universi
                       <span class="student-year">2024~</span>
                   </div>
                   <div class="student-item">
-                      <span class="student-name">Runze Lee (李润泽)</span>
-                      <span class="student-year">2022~</span>
+                      <span class="student-name">Yide Li (李贻德)</span>
+                      <span class="student-year">2025~</span>
                   </div>
                   <div class="student-item">
-                      <span class="student-name">Yiqi Dong (董一琪)</span>
-                      <span class="student-year">2024~</span>
+                      <span class="student-name">Zhaoyang Shang (尚钊洋)</span>
+                      <span class="student-year">2025~</span>
+                  </div>
+                  <div class="student-item">
+                      <span class="student-name"Zuer Deng (邓祖儿)</span>
+                      <span class="student-year">2025~</span>
                   </div>
               </div>
               <div class="student-column">
@@ -130,6 +144,14 @@ Xiaobao Wang (王晓宝) is currently an associate professor in Tianjin Universi
                   <div class="student-item">
                       <span class="student-name">Yujing Wang (王玉静)</span>
                       <span class="student-year">2024~</span>
+                  </div>
+                  <div class="student-item">
+                      <span class="student-name">Ruoyao Sun (孙若骁)</span>
+                      <span class="student-year">2025~</span>
+                  </div>
+                  <div class="student-item">
+                      <span class="student-name">Yuchen Liu (刘宇宸)</span>
+                      <span class="student-year">2025~</span>
                   </div>
               </div>
           </div>
