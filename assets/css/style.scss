@@ -61,16 +61,33 @@ body {
   font-size: 16px;
   padding: 5px 10px;
   transition: all 0.3s ease;
+  
+  border-radius: 4px;
+  position: relative;
 }
 
 .site-nav a:hover {
   color: #007acc;
+  background-color: rgba(0, 122, 204, 0.1);
 }
 
 .site-nav a.active {
   color: #007acc;
-  border-bottom: 2px solid #007acc;
+  // border-bottom: 2px solid #007acc;
+  background-color: rgba(0, 122, 204, 0.1);
+  font-weight: 600;
 }
+
+.site-nav a.active::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 12px;
+  right: 12px;
+  height: 2px;
+  background-color: #007acc;
+}
+
 
 /* 平滑滚动 */
 html {
