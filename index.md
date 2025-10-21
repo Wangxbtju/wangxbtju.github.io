@@ -160,44 +160,14 @@ Xiaobao Wang (王晓宝) is currently an associate professor in Tianjin Universi
   <tr>
     <td class="label">Alumni</td>
      <td>
-        <div class="student-columns">
-            <div class="student-column">
-                <div class="student-item">
-                    <span class="student-name">Yiqi Dong (董一琪)</span>
-                    <span>Master 2024, 3 CCF-A papers IJCAI/AAAI, Pursue a PhD in TJU</span>
-                </div>
-                <div class="student-item">
-                    <span class="student-name">Cui Jiaqi (崔佳琪)</span>
-                    <span>Master 2025， 1 CCF-A Paper TKDE，Sign up with 电信</span>
-                </div>
-                <div class="student-item">
-                    <span class="student-name">Jinghan Zhang (张敬涵)</span>
-                    <span>Master 2025， 1 CCF-A Paper MM，Sign up with 字节</span>
-                </div>
-                <div class="student-item">
-                    <span class="student-name">Yujun Zhang (张宇君)</span>
-                    <span>Master 2025， 1 CCF-A Paper AAAI</span>
-                </div>
-            </div>
-            <div class="student-column">
-                <div class="student-item">
-                    <span class="student-name">Zhe Yu (于哲)</span>
-                    <span>Master 2024, 1 CCF-A paper IJCAI</span>
-                </div>
-                <div class="student-item">
-                    <span class="student-name">Huiying Ma (马慧颖)</span>
-                    <span>Master 2024, 1 CCF-A paper IJCAI</span>
-                </div>
-                <div class="student-item">
-                    <span class="student-name">Zhiqiang Wang (王志强)</span>
-                    <span>Master 2024, Sign up with Kwai(快手)</span>
-                </div>
-                <div class="student-item">
-                    <span class="student-name">Lingshan Lee (李灵山)</span>
-                    <span>Master 2024, Sign up with China Development Bank(国家开发银行)</span>
-                </div>
-            </div>
-        </div>
+      Yiqi Dong (董一琪)	Master 2024, 3 CCF-A papers IJCAI/AAAI, Pursue a PhD in TJU<br>
+      Cui Jiaqi (崔佳琪)   Master 2025， 1 CCF-A Paper TKDE，Sign up with 电信<br>
+      Jinghan Zhang (张敬涵) Master 2025， 1 CCF-A Paper MM，Sign up with 字节<br>
+      Yujun Zhang (张宇君)  Master 2025， 1 CCF-A Paper AAAI<br>
+      Zhe Yu (于哲)	Master 2024, 1 CCF-A paper IJCAI<br>
+      Huiying Ma (马慧颖)	Master 2024, 1 CCF-A paper IJCAI<br>
+      Zhiqiang Wang (王志强)	Master 2024, Sign up with Kwai(快手)<br>
+      Lingshan Lee (李灵山)	Master 2024, Sign up with China Development Bank(国家开发银行)
     </td>
   </tr>
 </table>
