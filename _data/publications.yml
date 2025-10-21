@@ -24,7 +24,7 @@ main:
   - title: "LoSplit: Loss-Guided Dynamic Split for Training Time Defense Against Graph Backdoor Attacks"
     authors: "Di jin, Yuxiang Zhang, Bingdao Feng, <span style='font-weight: 900'>Xiaobao Wang</span>, Dongxiao He, Zhen Wang."
     conference_short: NeurIPS
-    conference: 39th Conference on Neural Information Processing Systems(CCF-A类会议长文)
+    conference: 39th Conference on Neural Information Processing Systems(CCF-A类会议, Spotlight 3%)
     year: 2025
     # pdf: 
     # code: 
