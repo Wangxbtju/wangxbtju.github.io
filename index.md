@@ -124,7 +124,7 @@ Xiaobao Wang (王晓宝) is currently an associate professor in Tianjin Universi
                       <span class="student-year">2025~</span>
                   </div>
                   <div class="student-item">
-                      <span class="student-name"Zuer Deng (邓祖儿)</span>
+                      <span class="student-name">Zuer Deng (邓祖儿)</span>
                       <span class="student-year">2025~</span>
                   </div>
               </div>
