@@ -293,7 +293,7 @@ main:
 
   - title: "Identification of communities with multi-semantics via Bayesian generative model"
     authors: "Dongxiao He, Yanli Wu, Youyou Wang, Zhizhi Yu, Zhiyong Feng, <span style='font-weight: 900'>Xiaobao Wang*</span>, Yuxiao Huang."
-    conference_short: IF.3.344
+    conference_short: IEEE<br>TBD
     conference: IEEE Transactions on Big Data, 2021. (SCI二区, IF.3.344)
     year: 2023 and Previous
     # pdf: 
@@ -311,7 +311,7 @@ main:
 
   - title: "A Joint Community Detection Model: Integrating Directed and Undirected Probabilistic Graphical Models via Factor Graph with Attention Mechanism"
     authors: "Dongxiao He, Huixin Liu, Zhiyong Feng, <span style='font-weight: 900'>Xiaobao Wang*</span>, Di Jin, Wenze Song and Yuxiao Huang."
-    conference_short: IEEE TBD
+    conference_short: IEEE<br>TBD
     conference: IEEE Transactions on Big Data, 2021. (SCI二区, IF.3.344, 第十届全国社会媒体处理大会(SMP 2022)最佳论文奖)
     year: 2023 and Previous
     # pdf: 
@@ -320,7 +320,7 @@ main:
       
   - title: "Identification of generalized semantic communities in large social networks"
     authors: "Di Jin, <span style='font-weight: 900'>Xiaobao Wang</span>, Mengquan Liu, Jianguo Wei, Wenhuan Lu, Francoise Fogelman-Soulié."
-    conference_short: IEEE TNSE‌
+    conference_short: IEEE<br>TNSE‌
     conference: IEEE Transactionson Network Scienceand Engineering, 2020. (SCI二区IF.5.213)
     year: 2023 and Previous
     # pdf: 
