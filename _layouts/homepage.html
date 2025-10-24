@@ -134,50 +134,82 @@
     {% endif %}
 
     <script>
-    document.addEventListener('DOMContentLoaded', function() {
-      console.log('DOM loaded - initializing navigation highlight');
-    
-      const headings = document.querySelectorAll('h2[id]');
-      const navLinks = document.querySelectorAll('.site-nav a');
-      const nav = document.querySelector('.site-nav');
-      const navHeight = nav ? nav.offsetHeight : 70;
-    
-      function highlightActiveNav() {
-        let currentSectionId = '';
-        let minDistance = Infinity;
-        const scrollPosition = window.scrollY + navHeight + 20; // 调整偏移
-    
-        headings.forEach(heading => {
-          const rect = heading.getBoundingClientRect();
-          const distance = Math.abs(rect.top - navHeight);
-          if (rect.top <= navHeight + 20 && distance < minDistance) {
-            minDistance = distance;
-            currentSectionId = heading.id;
+      document.addEventListener('DOMContentLoaded', function() {
+        const headings = Array.from(document.querySelectorAll('h2[id]'));
+        const navLinks = Array.from(document.querySelectorAll('.site-nav a'));
+        const nav = document.querySelector('.site-nav');
+        const navHeight = nav ? nav.offsetHeight : 70;
+      
+        // 调节这个偏移（像素）。如果高亮偏上，减小这个值（例如改为 0 或 10）。
+        // 如果高亮偏下，可以增大（例如 30）。
+        const OFFSET = 10;
+      
+        function highlightActiveNav() {
+          const scrollY = window.scrollY;
+          let currentId = '';
+      
+          // 选择最后一个已到达阈值的 heading（即 heading.offsetTop <= scrollY + navHeight + OFFSET）
+          for (let i = 0; i < headings.length; i++) {
+            const h = headings[i];
+            if (h.offsetTop <= scrollY + navHeight + OFFSET) {
+              currentId = h.id;
+            } else {
+              // headings 按文档顺序，遇到第一个未到达的就可以停止
+              break;
+            }
           }
-        });
-    
-        // 更新高亮状态
-        navLinks.forEach(link => {
-          link.classList.remove('active');
-          const linkTargetId = link.getAttribute('href').replace('#', '');
-          if (linkTargetId === currentSectionId) {
-            link.classList.add('active');
+      
+          // 如果滚动在页面顶部（接近 0），默认选择第一个 heading（例如 #about）
+          if (scrollY < 50 && headings.length > 0) {
+            currentId = headings[0].id;
           }
-        });
-    
-        // 页面顶部时，默认高亮第一个
-        if (window.scrollY < 100 && navLinks.length > 0) {
-          navLinks.forEach(l => l.classList.remove('active'));
-          const firstLink = document.querySelector('.site-nav a[href="#about"]');
-          if (firstLink) firstLink.classList.add('active');
+      
+          // 切换 active 类
+          navLinks.forEach(link => {
+            const target = (link.getAttribute('href') || '').replace('#', '');
+            if (target === currentId && currentId !== '') {
+              link.classList.add('active');
+            } else {
+              link.classList.remove('active');
+            }
+          });
         }
-      }
-    
-      // 初始化
-      highlightActiveNav();
-      window.addEventListener('scroll', highlightActiveNav);
-    });
-  </script>
+      
+        // 初始化并绑定滚动（如需防抖，可启用下面注释的防抖）
+        highlightActiveNav();
+        window.addEventListener('scroll', highlightActiveNav);
+      
+        // 点击导航时平滑滚动并确保高亮（现代浏览器支持 scroll-behavior，但我们也做补充）
+        navLinks.forEach(link => {
+          link.addEventListener('click', function(e) {
+            const href = this.getAttribute('href') || '';
+            if (!href.startsWith('#')) return;
+            const id = href.replace('#', '');
+            const target = document.getElementById(id);
+            if (!target) return;
+      
+            e.preventDefault();
+            // 计算滚动到的位置，保留导航高度偏移
+            const targetY = target.getBoundingClientRect().top + window.scrollY - navHeight - 4; // 4px 小缓冲
+            window.scrollTo({ top: targetY, behavior: 'smooth' });
+      
+            // 立即更新高亮（在滚动开始时）
+            navLinks.forEach(l => l.classList.remove('active'));
+            this.classList.add('active');
+      
+            // 在滚动结束后再一次确保高亮（以防 smooth scroll 精度问题）
+            setTimeout(highlightActiveNav, 400);
+          });
+        });
+      
+        // 可选：在窗口尺寸变化时重新计算（navHeight 可能变化）
+        window.addEventListener('resize', function() {
+          // 如果你的导航高度会变化，重新加载页面或重新计算常量 navHeight 会更稳妥。
+          // 这里简单延迟重新高亮即可。
+          setTimeout(highlightActiveNav, 100);
+        });
+      });
+    </script>
 
   </body>
 </html>
