@@ -134,90 +134,50 @@
     {% endif %}
 
     <script>
-      document.addEventListener('DOMContentLoaded', function() {
-        console.log('DOM loaded - initializing navigation highlight');
-        
-        const sections = document.querySelectorAll('h2[id]');
-        const navLinks = document.querySelectorAll('.site-nav a');
-        
-        // 获取导航栏高度
-        const nav = document.querySelector('.site-nav');
-        const navHeight = nav ? nav.offsetHeight : 70;
-        
-        console.log('Found sections:', sections.length);
-        console.log('Found nav links:', navLinks.length);
-        console.log('Nav height:', navHeight);
-        
-        // 设置内容偏移
-        document.body.style.paddingTop = navHeight + 'px';
-        
-        // 更新所有section的scroll-margin
-        sections.forEach(section => {
-          section.style.scrollMarginTop = navHeight + 'px';
-        });
-  
-        // 高亮当前活动的导航链接
-        function highlightActiveNav() {
-          let currentSectionId = '';
-          const scrollPosition = window.scrollY + navHeight + 100; // 添加一些偏移量
-          
-          sections.forEach(section => {
-            const sectionTop = section.offsetTop;
-            const sectionHeight = section.offsetHeight;
-            
-            if (scrollPosition >= sectionTop && scrollPosition < sectionTop + sectionHeight) {
-              currentSectionId = section.getAttribute('id');
-            }
-          });
-          
-          console.log('Current active section:', currentSectionId);
-          
-          // 更新导航链接的高亮状态
-          navLinks.forEach(link => {
-            const linkHref = link.getAttribute('href');
-            const linkTargetId = linkHref.startsWith('#') ? linkHref.substring(1) : linkHref;
-            
-            link.classList.remove('active');
-            
-            if (linkTargetId === currentSectionId) {
-              link.classList.add('active');
-              console.log('Activated link for:', linkTargetId);
-            }
-          });
-          
-          // 如果页面在顶部，高亮第一个链接
-          if (window.scrollY < 100 && navLinks.length > 0) {
-            navLinks.forEach(link => link.classList.remove('active'));
-            const firstLink = document.querySelector('.site-nav a[href="#about"]');
-            if (firstLink && !currentSectionId) {
-              firstLink.classList.add('active');
-            }
+    document.addEventListener('DOMContentLoaded', function() {
+      console.log('DOM loaded - initializing navigation highlight');
+    
+      const headings = document.querySelectorAll('h2[id]');
+      const navLinks = document.querySelectorAll('.site-nav a');
+      const nav = document.querySelector('.site-nav');
+      const navHeight = nav ? nav.offsetHeight : 70;
+    
+      function highlightActiveNav() {
+        let currentSectionId = '';
+        let minDistance = Infinity;
+        const scrollPosition = window.scrollY + navHeight + 20; // 调整偏移
+    
+        headings.forEach(heading => {
+          const rect = heading.getBoundingClientRect();
+          const distance = Math.abs(rect.top - navHeight);
+          if (rect.top <= navHeight + 20 && distance < minDistance) {
+            minDistance = distance;
+            currentSectionId = heading.id;
           }
-        }
-  
-        // 初始化高亮
-        highlightActiveNav();
-        
-        // 添加滚动监听（带防抖）
-        let scrollTimer;
-        window.addEventListener('scroll', function() {
-          clearTimeout(scrollTimer);
-          scrollTimer = setTimeout(highlightActiveNav, 10);
         });
-        
-        // 点击导航链接时更新高亮
+    
+        // 更新高亮状态
         navLinks.forEach(link => {
-          link.addEventListener('click', function(e) {
-            // 移除所有active类
-            navLinks.forEach(l => l.classList.remove('active'));
-            // 为当前点击的链接添加active类
-            this.classList.add('active');
-            
-            // 短暂延迟后重新运行高亮函数，确保滚动后正确更新
-            setTimeout(highlightActiveNav, 100);
-          });
+          link.classList.remove('active');
+          const linkTargetId = link.getAttribute('href').replace('#', '');
+          if (linkTargetId === currentSectionId) {
+            link.classList.add('active');
+          }
         });
-      });
-    </script>
+    
+        // 页面顶部时，默认高亮第一个
+        if (window.scrollY < 100 && navLinks.length > 0) {
+          navLinks.forEach(l => l.classList.remove('active'));
+          const firstLink = document.querySelector('.site-nav a[href="#about"]');
+          if (firstLink) firstLink.classList.add('active');
+        }
+      }
+    
+      // 初始化
+      highlightActiveNav();
+      window.addEventListener('scroll', highlightActiveNav);
+    });
+  </script>
+
   </body>
 </html>
