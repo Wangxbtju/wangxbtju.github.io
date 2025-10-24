@@ -108,11 +108,11 @@ Xiaobao Wang (王晓宝) is currently an associate professor in Tianjin Universi
                       <span class="student-year">2024~</span>
                   </div>
                   <div class="student-item">
-                      <span class="student-name">Yao Huang (黄骁)</span>
+                      <span class="student-name">Xiao Huang (黄骁)</span>
                       <span class="student-year">2024~</span>
                   </div>
                   <div class="student-item">
-                      <span class="student-name">Jinchen Song (宋金城)</span>
+                      <span class="student-name">Jincheng Song (宋金城)</span>
                       <span class="student-year">2024~</span>
                   </div>
                   <div class="student-item">
@@ -146,7 +146,7 @@ Xiaobao Wang (王晓宝) is currently an associate professor in Tianjin Universi
                       <span class="student-year">2024~</span>
                   </div>
                   <div class="student-item">
-                      <span class="student-name">Ruoyao Sun (孙若骁)</span>
+                      <span class="student-name">Ruoxiao Sun (孙若骁)</span>
                       <span class="student-year">2025~</span>
                   </div>
                   <div class="student-item">
