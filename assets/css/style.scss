@@ -76,30 +76,11 @@ section {
   padding: 100px 20px;
   scroll-margin-top: 80px;
   min-height: 50vh;
-  max-width: 1100px; /* 原本800，可改1000–1200 */
-  margin: 0 auto;
-  padding: 40px 60px; /* 内边距稍加宽松 */
 }
 
 /* 确保内容区域正确显示 */
 .wrapper {
   margin-top: 0;
-  display: flex;
-  align-items: flex-start;
-  justify-content: center;
-  gap: 40px;
-  max-width: 1400px;
-  margin: 0 auto;
-}
-
-/* 左侧个人信息栏宽度 */
-.wrapper header {
-  flex: 0 0 250px; /* 可根据实际调整 */
-}
-
-/* 右侧主内容自动伸展 */
-.wrapper section {
-  flex: 1;
 }
 
 .main-content {
@@ -185,32 +166,5 @@ h2 {
     }
 }
 
-/* === 改善布局宽度 === */
 
-/* 调整标题与文本排版 */
-section h2 {
-  font-size: 1.6rem;
-  margin-top: 1.8em;
-  margin-bottom: 0.6em;
-}
-
-/* 如果希望整体再宽一点，可同时放宽 wrapper 最大宽度 */
-@media screen and (min-width: 1400px) {
-  .wrapper {
-    max-width: 1250px;
-  }
-}
-
-/* 移动端适配 */
-@media screen and (max-width: 768px) {
-  .wrapper {
-    flex-direction: column;
-    gap: 20px;
-  }
-  .wrapper header {
-    position: relative;
-    top: auto;
-    width: 100%;
-  }
-}
 
