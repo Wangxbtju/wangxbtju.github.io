@@ -177,6 +177,30 @@ h2 {
     color: #ffffff;
     font-weight: 550;
   }
+
+  /* 导航栏背景：柔黑，不刺眼 */
+  .site-nav {
+    background-color: #1e1e1e; /* VS Code 深灰黑，柔和 */
+    border-bottom: 1px solid #333;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.6);
+  }
+
+  /* 导航文字 */
+  .site-nav a {
+    color: #e8e8e8; /* 温柔白 */
+  }
+
+  /* Hover + active 高亮 */
+  .site-nav a:hover,
+  .site-nav a.active {
+    color: #7ab8ff; /* 柔蓝，高级感 */
+    background-color: rgba(122, 184, 255, 0.12);
+  }
+
+  /* Active 下划线 */
+  .site-nav a.active::after {
+    background-color: #7ab8ff;
+  }
 }
 
 
