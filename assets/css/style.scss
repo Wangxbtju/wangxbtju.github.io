@@ -167,5 +167,17 @@ h2 {
     }
 }
 
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #e8e8e8; /* 柔和白，不刺眼 */
+    font-weight: 400; /* 夜间减少视觉疲劳 */
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #ffffff;
+    font-weight: 550;
+  }
+}
+
 
 
