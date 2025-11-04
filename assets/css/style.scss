@@ -3,9 +3,16 @@
 
 @import "minimal-light";
 body {
+  color: #000000;
   font-size: 17px;
   padding-top: 0; /* 为固定导航栏留出空间 */
   margin: 0;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #e5e5e5;  /* 柔和的白色 */
+  }
 }
 
 /* 导航栏样式 */
