@@ -1,6 +1,6 @@
 main:
 
-    - title: "From Subtle to Significant: Prompt-Driven Self-Improving Optimization in Test-Time Graph OOD Detection"
+  - title: "From Subtle to Significant: Prompt-Driven Self-Improving Optimization in Test-Time Graph OOD Detection"
     authors: "Luzhi Wang, Xuanshuo Fu, He Zhang, Chuang Liu, <span style='font-weight: 900'>Xiaobao Wang*</span>, Hongbo Liu."
     conference_short: AAAI-2026
     conference: The 40th Annual AAAI Conference on Artificial Intelligence‌(CCF-A类会议长文, Oral)
@@ -9,7 +9,7 @@ main:
     # code:
     # page: 
 
-    - title: "Structure-Enhanced Adapter for Self-Supervised Heterogeneous Graph Learning"
+  - title: "Structure-Enhanced Adapter for Self-Supervised Heterogeneous Graph Learning"
     authors: "Fengyu Yan, Di Jin*, <span style='font-weight: 900'>Xiaobao Wang*</span>, Qianhua Tang, Dongxiao He."
     conference_short: AAAI-2026
     conference: The 40th Annual AAAI Conference on Artificial Intelligence‌(CCF-A类会议长文)
@@ -18,7 +18,7 @@ main:
     # code:
     # page: 
     
-    - title: "Mitigating Noise and Imbalance in Social Governance Graphs for Multi-Type Risk Assessment"
+  - title: "Mitigating Noise and Imbalance in Social Governance Graphs for Multi-Type Risk Assessment"
     authors: "Di Jin, Haotian Zhao, <span style='font-weight: 900'>Xiaobao Wang*</span>, Fengyu Yan, Dongxiao He"
     conference_short: AAAI-2026
     conference: The 40th Annual AAAI Conference on Artificial Intelligence‌(CCF-A类会议长文)
@@ -27,7 +27,7 @@ main:
     # code:
     # page: 
 
-    - title: "Sentiment Variation-Aware Sentiment Spike Explanation during COVID-19 Epidemic."
+  - title: "Sentiment Variation-Aware Sentiment Spike Explanation during COVID-19 Epidemic."
     authors: "Yawen Li, <span style='font-weight: 900'>Xiaobao Wang*</span>, Bin Wen, Di Jin, Junping Du."
     conference_short: TKDE
     conference: IEEE Transactions on Knowledge and Data Engineering, 2026. (CCF-A类期刊)
