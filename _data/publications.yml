@@ -1,7 +1,16 @@
 main:
 
+  - title: "Unveiling Fine-grained Deceptive Patterns in Multi-modal Fake News: An Explainable Neuro-Symbolic Framework with LVLMs."
+    authors: "Dongxiao He, Yiqi Dong, <span style='font-weight: 900'>Xiaobao Wang*</span>, Meng Ge, Carl Yang, Di Jin*, Witold Pedrycz. "
+    conference_short: TPAMI
+    conference: IEEE Transactions on Pattern Analysis and Machine Intelligence, 2026. (CCF-A类期刊)
+    year: 2026
+    # pdf: 
+    # code:
+    # page: 
+    
   - title: "From Subtle to Significant: Prompt-Driven Self-Improving Optimization in Test-Time Graph OOD Detection"
-    authors: "Luzhi Wang, Xuanshuo Fu, He Zhang, Chuang Liu, <span style='font-weight: 900'>Xiaobao Wang*</span>, Hongbo Liu."
+    authors: "Luzhi Wang, Xuanshuo Fu, He Zhang, Chuang Liu, <span style='font-weight: 900'>Xiaobao Wang</span>, Hongbo Liu."
     conference_short: AAAI-2026
     conference: The 40th Annual AAAI Conference on Artificial Intelligence‌(CCF-A类会议长文, Oral)
     year: 2026
