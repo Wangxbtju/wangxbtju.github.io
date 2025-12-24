@@ -206,9 +206,9 @@ main:
     conference_short: AAAI
     conference: Thirty-Ninth AAAI Conference on Artificial Intelligence. (CCF-A类会议长文)
     year: 2025
-    pdf: https://arxiv.org/abs/2412.10460.pdf
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/32152/34307
     # code: 
-    page: https://arxiv.org/abs/2412.10460
+    page: https://ojs.aaai.org/index.php/AAAI/article/view/32152
 
   - title: "HeterGP: Bridging Heterogeneity in Graph Neural Networks with Multi-View Prompting"
     authors: "Fengyu Yan, <span style='font-weight: 900'>Xiaobao Wang</span>, Dongxiao He, Longbiao Wang, Jianwu Dang, Di Jin*."
