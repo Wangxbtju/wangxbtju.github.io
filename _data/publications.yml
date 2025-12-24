@@ -50,9 +50,9 @@ main:
     conference_short: NeurIPS
     conference: 39th Conference on Neural Information Processing Systems(CCF-A类会议长文)
     year: 2025
-    pdf: https://arxiv.org/pdf/2509.22416.pdf
+    pdf: https://openreview.net/pdf?id=xJ2lGfFOv7
     code: https://github.com/hedongxiao-tju/UniPrompt
-    page: https://arxiv.org/pdf/2509.22416
+    page: https://openreview.net/forum?id=xJ2lGfFOv7
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/teaser_example_2.png
     # notes: Early Accept
@@ -62,9 +62,9 @@ main:
     conference_short: NeurIPS
     conference: 39th Conference on Neural Information Processing Systems(CCF-A类会议长文)
     year: 2025
-    pdf: https://arxiv.org/pdf/2509.26032.pdf
+    pdf: https://openreview.net/pdf?id=EpEluUcQ6A
     code: https://github.com/
-    page: https://arxiv.org/abs/2509.26032
+    page: https://openreview.net/forum?id=EpEluUcQ6A&utm_source=chatgpt.com
 
   - title: "LoSplit: Loss-Guided Dynamic Split for Training Time Defense Against Graph Backdoor Attacks"
     authors: "Di jin, Yuxiang Zhang, Bingdao Feng, <span style='font-weight: 900'>Xiaobao Wang</span>, Dongxiao He, Zhen Wang."
@@ -80,27 +80,27 @@ main:
     conference_short: NeurIPS
     conference: 39th Conference on Neural Information Processing Systems(CCF-A类会议长文, Spotlight 3%)
     year: 2025
-    pdf: https://arxiv.org/abs/2509.24629.pdf
+    pdf: https://openreview.net/pdf?id=SYcggdxX6W
     code: https://anonymousdemo999.github.io/.
-    page: https://arxiv.org/abs/2509.24629
+    page: https://openreview.net/forum?id=SYcggdxX6W
 
   - title: "Rethinking Contrastive Learning in Graph Anomaly Detection: A Clean-View Perspective"
     authors: "Di Jin, Jingyi Cao, <span style='font-weight: 900'>Xiaobao Wang*</span>, Bingdao Feng, Dongxiao He , Longbiao Wang, Jianwu Dang." 
     conference_short: IJCAI
     conference: 34th International Joint Conference on Artificial Intelligence‌(CCF-A类会议长文)
     year: 2025
-    pdf: https://arxiv.org/pdf/2505.18002.pdf
+    pdf: https://www.ijcai.org/proceedings/2025/0335.pdf
     # code: 
-    page: https://arxiv.org/pdf/2505.18002
+    page: https://www.ijcai.org/proceedings/2025/335?utm_source=chatgpt.com
     
   - title: "A Dynamic Knowledge Update-Driven Model with Large Language Models for Fake News Detection"
     authors: "Di Jin , Jun Yang, <span style='font-weight: 900'>Xiaobao Wang*</span>, Junwei Zhang, Shuqi Li, Dongxiao He. " 
     conference_short: IJCAI
     conference: 34th International Joint Conference on Artificial Intelligence‌(CCF-A类会议长文)
     year: 2025
-    pdf: https://arxiv.org/abs/2509.11687.pdf
+    pdf: https://www.ijcai.org/proceedings/2025/0334.pdf
     # code: 
-    page: https://arxiv.org/abs/2509.11687
+    page: https://www.ijcai.org/proceedings/2025/334
 
   - title: "Exploiting Self-Refining Normal Graph Structures for Robust Defense against Unsupervised Adversarial Attacks"
     authors: "Bingdao Feng, Di Jin*, <span style='font-weight: 900'>Xiaobao Wang</span>, Dongxiao He, Jingyi Cao, Zhen Wang."  
@@ -116,18 +116,18 @@ main:
     conference_short: IJCAI
     conference: 34th International Joint Conference on Artificial Intelligence‌(CCF-A类会议长文)
     year: 2025
-    pdf: https://arxiv.org/abs/2506.08401.pdf
+    pdf: https://www.ijcai.org/proceedings/2025/0342.pdf
     # code: 
-    page: https://arxiv.org/abs/2506.08401
+    page: https://www.ijcai.org/proceedings/2025/342
 
   - title: "Intergration of Old and New Knowledge for Generalized Intent Discovery: A Consistency-driven Prototype-Prompting Framework"
     authors: "Xiao Wei, <span style='font-weight: 900'>Xiaobao Wang*</span>, Ning Zhuang, Chenyang Wang, Longbiao Wang*, and Jianwu Dang. "
     conference_short: IJCAI
     conference: 34th International Joint Conference on Artificial Intelligence‌(CCF-A类会议长文)
     year: 2025
-    # pdf: 
+    pdf: https://www.ijcai.org/proceedings/2025/0921.pdf
     # code: 
-    # page: 
+    page: https://www.ijcai.org/proceedings/2025/921
 
   - title: "Active Multimodal Distillation for Few-shot Action Recognition"
     authors: "Weijia Feng, Yichen Zhu, Ruojia Zhang , Chenyang Wang, Fei Ma, <span style='font-weight: 900'>Xiaobao Wang</span>, Xiaobai Li . "
