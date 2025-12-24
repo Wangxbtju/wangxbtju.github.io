@@ -11,7 +11,7 @@ main:
     
   - title: "From Subtle to Significant: Prompt-Driven Self-Improving Optimization in Test-Time Graph OOD Detection"
     authors: "Luzhi Wang, Xuanshuo Fu, He Zhang, Chuang Liu, <span style='font-weight: 900'>Xiaobao Wang</span>, Hongbo Liu."
-    conference_short: AAAI-2026
+    conference_short: AAAI
     conference: The 40th Annual AAAI Conference on Artificial Intelligence‌(CCF-A类会议长文, Oral)
     year: 2026
     # pdf: 
@@ -20,7 +20,7 @@ main:
 
   - title: "Structure-Enhanced Adapter for Self-Supervised Heterogeneous Graph Learning"
     authors: "Fengyu Yan, Di Jin*, <span style='font-weight: 900'>Xiaobao Wang*</span>, Qianhua Tang, Dongxiao He."
-    conference_short: AAAI-2026
+    conference_short: AAAI
     conference: The 40th Annual AAAI Conference on Artificial Intelligence‌(CCF-A类会议长文)
     year: 2026
     # pdf: 
@@ -29,7 +29,7 @@ main:
     
   - title: "Mitigating Noise and Imbalance in Social Governance Graphs for Multi-Type Risk Assessment"
     authors: "Di Jin, Haotian Zhao, <span style='font-weight: 900'>Xiaobao Wang*</span>, Fengyu Yan, Dongxiao He"
-    conference_short: AAAI-2026
+    conference_short: AAAI
     conference: The 40th Annual AAAI Conference on Artificial Intelligence‌(CCF-A类会议长文)
     year: 2026
     # pdf: 
@@ -71,9 +71,9 @@ main:
     conference_short: NeurIPS
     conference: 39th Conference on Neural Information Processing Systems(CCF-A类会议)
     year: 2025
-    # pdf: 
+    pdf: https://openreview.net/pdf?id=3Cpw7YftBm
     # code: 
-    # page: 
+    page: https://openreview.net/forum?id=3Cpw7YftBm
 
   - title: "Word-Level Emotional Expression control in Zero-Shot Text-to-Speech Synthesis"
     authors: "Tianrui Wang, Haoyu Wang, Meng Ge, Cheng Gong, Chunyu Qiang, Ziyang Ma, Zikang Huang, Guanrou Yang, <span style='font-weight: 900'>Xiaobao Wang</span>, EngSiong Chngo, Xie Chen, Longbiao Wang, Jianwu Dang."
