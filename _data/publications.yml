@@ -134,16 +134,16 @@ main:
     conference_short: IJCAI
     conference: 34th International Joint Conference on Artificial Intelligence‌(CCF-A类会议长文)
     year: 2025
-    pdf: https://arxiv.org/abs/2506.13322.pdf
+    pdf: https://www.ijcai.org/proceedings/2025/0112.pdf
     # code: 
-    page: https://arxiv.org/abs/2506.13322
+    page: https://www.ijcai.org/proceedings/2025/112
 
   - title: "Elevating Knowledge-Enhanced Entity and Relationship Understanding for Sarcasm Detection"
     authors: "<span style='font-weight: 900'>Xiaobao Wang</span>, Yujing Wang, Dongxiao He, Zhe Yu, Yawen Li, Longbiao Wang, Jianwu Dang and Di Jin. "
     conference_short: TKDE‌
     conference: IEEE Transactions on Knowledge and Data Engineering, 2025. (CCF-A类期刊)
     year: 2025
-    # pdf: 
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10908891
     # code: 
     page: https://ieeexplore.ieee.org/document/10908891
 
@@ -152,7 +152,7 @@ main:
     conference_short: TKDE
     conference: IEEE Transactions on Knowledge and Data Engineering, 2025. (CCF-A类期刊)
     year: 2025
-    # pdf: 
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10840305
     # code: 
     page: https://ieeexplore.ieee.org/document/10840305  
     
@@ -161,7 +161,7 @@ main:
     conference_short: WWW
     conference: The Web Conference 2025. (CCF-A类会议长文，Oral)
     year: 2025
-    pdf: https://arxiv.org/abs/2507.07141.pdf
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3696410.3714900
     code: https://github.com/hedongxiao-tju/PiGCL
     page: https://dl.acm.org/doi/10.1145/3696410.3714900
 
@@ -170,7 +170,7 @@ main:
     conference_short: ICASSP
     conference: International Conference on Acoustics, Speech, and Signal Processing 2025. (CCF-B类会议，语音领域顶会)
     year: 2025
-    # pdf: 
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10888364
     # code: 
     page: https://ieeexplore.ieee.org/document/10888364
 
@@ -179,7 +179,7 @@ main:
     conference_short: ICASSP
     conference: International Conference on Acoustics, Speech, and Signal Processing 2025. (CCF-B类会议，语音领域顶会)
     year: 2025
-    # pdf: 
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10889137
     # code: 
     page: https://ieeexplore.ieee.org/document/10889137
   
@@ -188,9 +188,9 @@ main:
     conference_short: ESWA‌‌
     conference: Expert Systems With Applications-2025. (SCI一区TOP期刊)
     year: 2025
-    # pdf: 
+    pdf: https://pdf.sciencedirectassets.com/271506/1-s2.0-S0957417424X00305/1-s2.0-S0957417424029968/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFsaCXVzLWVhc3QtMSJIMEYCIQDMxeJ6q05mrEqqf3r6VHY1UDPVW5dtseqD3YLtdeeV8AIhAO4nrT6%2Fulz3u%2FrPds1wCUheFjVUCBjgJ9c64WZtKj1RKrIFCCQQBRoMMDU5MDAzNTQ2ODY1Igw6p4SST7UQ6kfyI6sqjwVxjxWG8cCIbfxIICyB6uKFEX9FK0Kq5ZqBxis7mG7i1lR3X%2FqYV4cxS6zv1TeRuN%2FpnAY0H7JY4Yc71O0VkF9xfd%2BX9sN4R551nKdRuN5hnTz2AyCgVnEfCsXlMx7BSbZueh5ZSHhjxn1Tp6F7SzYmVkONUbEP%2BuQgp1hGNASNNJWWzWrG5GbSjRLvOmJfVSjOqznqFLOH%2B4NsKnr0C%2FPdaQe3kM6MOW2VOz%2FElhyLpQpk73l1XE8nD2W1zkaTgNu8dREB7SUjD8OEJJEEtogpdmX6gafLn2lLANA3RYYRuPLJZm2j7IsrUL31kzg429egUFLIbvRrsAEh812DvV%2FTLcYH5eZ0W1MHnR6OQAAiqqWlvy%2B8E25%2BBz0snfaIFhL33v4p7rTq2lg6qUQ3rJvhGzY45KL9VT6cDqavwlLQtPBHuurLPwhzeXVSPWcG18KHiZbPmnzgj%2BLsXBMS8ErBDE9lNz931vVBdRlVWVBmyChXKya4ZZ1OG6qN2%2Ftsa1ILM2RxpG6QbO6lhFPHHbmxEbvlGbaaP%2BL%2Fi3rT%2Fo3ZpISOpwP0KkRHGuvUeJpW6ilbmYiq3FFvFYvKYABrWXn2Tq9RA8zvuHLfJp%2BdjsRHTIi3yZ2PwjKECtHzp4DOXkUDKmkRD5BjjF%2Fn0olJuWm072g0eAup7VRLKG7S5ZSF%2FtSDW4UOY4FNwd9%2Fns5iT75izu90Tz%2BY1Mb6dUnP4j2rdpsAyGIe4kT5uFZrPJ8AVo%2BhCesFDEx27y%2FT2o9XM%2Bq3WWZqY9%2ByAjmfrMNsm12HcE0FXsIOfU9nkolmmTRBXJib6lrNsi9D%2BYUkDGmjrilV%2BJ33mLzFq9XL068eGo1WSaB2Qojjbv0HqlHsjDfFMKqKr8oGOrABc0EXv3mC3yXQ3bqL9Gs5hXv7Z%2FEiugbdIQthCYlnI49ZK8RHue%2FSCx7omPogJT1wQHewj1VBWYNS8fX3hGSX3s18TaKAMH9RMaajakr%2FIdTOpehVbdskrIxJibRBpy9wtePIOaOfGCMnZwXvDMkM1Y39oie7G5B2ntRhPXJWfKs3EGp%2BxVSV%2FBZvKmieoWhf0vK7DH7EOc2ywVduN%2Fqi2iuWI9GTvuuPA%2F9cQRkr1qw%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251224T115558Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYQIV4VAK5%2F20251224%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=f23ed481f25608ef21a54aa3988032f6f5dd26fbeab74f5078e10281d8d6c21f&hash=0a9571e11c413b7268b923304aa282073cd3cb3a5279561699c49ec015687344&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0957417424029968&tid=spdf-4ba13650-77f9-426f-b58d-8647ecb5bea6&sid=cda9ada051c00241643803c3834450034513gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0d0e560556060a5f&rr=9b2fe9a8993106f0&cc=cn
     # code: 
-    page: https://www.sciencedirect.com/science/article/abs/pii/S0957417424029968?
+    page: https://www.sciencedirect.com/science/article/pii/S0957417424029968
       
   - title: "Backdoor Attack on Propagation-based Rumor Detectors"
     authors: "Di Jin, Yujun Zhang, Bingdao Feng*, <span style='font-weight: 900'>Xiaobao Wang*</span>, Dongxiao He, Zhen Wang."
