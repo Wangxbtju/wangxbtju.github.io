@@ -126,7 +126,7 @@ main:
     conference: 34th International Joint Conference on Artificial Intelligence‌(CCF-A类会议长文)
     year: 2025
     pdf: https://www.ijcai.org/proceedings/2025/0921.pdf
-    # code: 
+    code: https://github.com/smileix/cpp
     page: https://www.ijcai.org/proceedings/2025/921
 
   - title: "Active Multimodal Distillation for Few-shot Action Recognition"
@@ -180,7 +180,7 @@ main:
     conference: International Conference on Acoustics, Speech, and Signal Processing 2025. (CCF-B类会议，语音领域顶会)
     year: 2025
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10889137
-    # code: 
+    code: https://github.com/HuangZikang-TJU/Aug4TSE
     page: https://ieeexplore.ieee.org/document/10889137
   
   - title: "Graph Contrastive Learning with Multiple Information Fusion"
