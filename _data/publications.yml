@@ -5,9 +5,9 @@ main:
     conference_short: TPAMI
     conference: IEEE Transactions on Pattern Analysis and Machine Intelligence, 2026. (CCF-A类期刊)
     year: 2026
-    # pdf: 
-    # code:
-    # page: 
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11297848
+    code: https://github.com/hedongxiao-tju/GE-NSLM
+    page: https://ieeexplore.ieee.org/document/11297848
     
   - title: "From Subtle to Significant: Prompt-Driven Self-Improving Optimization in Test-Time Graph OOD Detection"
     authors: "Luzhi Wang, Xuanshuo Fu, He Zhang, Chuang Liu, <span style='font-weight: 900'>Xiaobao Wang</span>, Hongbo Liu."
@@ -41,9 +41,9 @@ main:
     conference_short: TKDE
     conference: IEEE Transactions on Knowledge and Data Engineering, 2026. (CCF-A类期刊)
     year: 2026
-    # pdf: 
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11244715
     # code:
-    # page: 
+    page: https://ieeexplore.ieee.org/document/11244715
 
   - title: "One Prompt Fits All: Universal Graph Adaptation for Pretrained Models"
     authors: "Yongqi Huang, Jitao Zhao, Dongxiao He, <span style='font-weight: 900'>Xiaobao Wang</span>, Yawen Li, Yuxiao Huang, Di jin, Zhiyong Feng."
