@@ -164,6 +164,7 @@ Xiaobao Wang (王晓宝) is currently an associate professor in Tianjin Universi
       Cui Jiaqi (崔佳琪)   Master 2025， 1 CCF-A Paper TKDE，Sign up with 电信<br>
       Jinghan Zhang (张敬涵) Master 2025， 1 CCF-A Paper MM，Sign up with 字节<br>
       Yujun Zhang (张宇君)  Master 2025， 1 CCF-A Paper AAAI<br>
+      Sheng Wu（吴晟）Master 2025，1 CCF-A paper AAAI<br>
       Zhe Yu (于哲)	Master 2024, 1 CCF-A paper IJCAI<br>
       Huiying Ma (马慧颖)	Master 2024, 1 CCF-A paper IJCAI<br>
       Zhiqiang Wang (王志强)	Master 2024, Sign up with Kwai(快手)<br>
