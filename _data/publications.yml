@@ -14,9 +14,9 @@ main:
     conference_short: IEEE-TAC
     conference: IEEE Transactions on Affective Computing, 2026. (SCI 一区 TOP)
     year: 2026
-    # pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11297848
-    # code: https://github.com/hedongxiao-tju/GE-NSLM
-    # page: https://ieeexplore.ieee.org/document/11297848
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11320338
+    # code: 
+    page: https://ieeexplore.ieee.org/document/11320338/
     
   - title: "From Subtle to Significant: Prompt-Driven Self-Improving Optimization in Test-Time Graph OOD Detection"
     authors: "Luzhi Wang, Xuanshuo Fu, He Zhang, Chuang Liu, <span style='font-weight: 900'>Xiaobao Wang</span>, Hongbo Liu."
