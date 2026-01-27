@@ -1,5 +1,50 @@
 main:
 
+  - title: "Federated Graph-Level Clustering Network with Dual Knowledge Separation."
+    authors: "<span style='font-weight: 900'>Xiaobao Wang</span>, Renda Han, Ronghao Fu, Di Jin."
+    conference_short: ICLR
+    conference: International Conference on Learning Representations. (CCF-A类期刊)
+    year: 2026
+    # pdf: 
+    # code: 
+    # page: 
+
+   - title: "A Graph Foundation Model for Unified Anomaly Detection."
+    authors: "Renda Han, <span style='font-weight: 900'>Xiaobao Wang*</span>, Luzhi Wang, Wenxin Zhang, Guangzhen Yao and Hongxiang Liang. "
+    conference_short: WWW
+    conference: ACM TheWebConf 2026. (CCF-A类会议长文)
+    year: 2026
+    # pdf: 
+    # code: 
+    # page: 
+
+  - title: "A Unified Graph Clustering Network."
+    authors: "Renda Han, <span style='font-weight: 900'>Xiaobao Wang*</span>, Longbiao Wang*, Wenxin Zhang, Ronghao Fu, Kaiming Wang, Zeyu Zhang and Kuntharrgyal Khysru."
+    conference_short: WWW
+    conference: ACM TheWebConf 2026. (CCF-A类会议长文)
+    year: 2026
+    # pdf: 
+    # code: 
+    # page:  
+
+  - title: "Cross-Type Semantic Alignment for Multi-Type Anomaly Detection in Heterogeneous Graphs."
+    authors: "Di Jin, Xiao Huang, <span style='font-weight: 900'>Xiaobao Wang*</span>, Fengyu Yan, Luzhi Wang and Hongxiang Liang."
+    conference_short: WWW
+    conference: ACM TheWebConf 2026. (CCF-A类会议长文)
+    year: 2026
+    # pdf: 
+    # code: 
+    # page: 
+
+  - title: "Unveiling Backdoor Propagation in Graphs: Neuron-Centric Defense Mechanisms."
+    authors: "Di Jin, Bingdao Feng, <span style='font-weight: 900'>Xiaobao Wang*</span>, Yuxiang Zhang, Zechuan Zhang, Liang Yang, Dongxiao He and Zhen Wang."
+    conference_short: WWW
+    conference: ACM TheWebConf 2026. (CCF-A类会议长文)
+    year: 2026
+    # pdf: 
+    # code: 
+    # page: 
+
   - title: "Unveiling Fine-grained Deceptive Patterns in Multi-modal Fake News: An Explainable Neuro-Symbolic Framework with LVLMs."
     authors: "Dongxiao He, Yiqi Dong, <span style='font-weight: 900'>Xiaobao Wang*</span>, Meng Ge, Carl Yang, Di Jin*, Witold Pedrycz. "
     conference_short: TPAMI
