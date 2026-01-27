@@ -5,11 +5,11 @@ main:
     conference_short: ICLR
     conference: International Conference on Learning Representations. (CCF-A类期刊)
     year: 2026
-    # pdf: 
+    pdf: https://openreview.net/forum?id=FwKFjBX0PK
     # code: 
-    # page: 
+    page: https://openreview.net/pdf?id=FwKFjBX0PK
 
-   - title: "A Graph Foundation Model for Unified Anomaly Detection."
+  - title: "A Graph Foundation Model for Unified Anomaly Detection."
     authors: "Renda Han, <span style='font-weight: 900'>Xiaobao Wang*</span>, Luzhi Wang, Wenxin Zhang, Guangzhen Yao and Hongxiang Liang. "
     conference_short: WWW
     conference: ACM TheWebConf 2026. (CCF-A类会议长文)
