@@ -42,7 +42,6 @@ Xiaobao Wang (王晓宝) is currently an associate professor in Tianjin Universi
   <tr>
     <td class="label"><i class="fa fa-map-marker"></i>  Address</td>
     <td>
-      Room A-303, Building 55<br>
       Peiyang Park Campus, Tianjin University<br>
       No.135, Yaguan Road, Tianjin Haihe Education Park<br>
       Tianjin, China, 300350
