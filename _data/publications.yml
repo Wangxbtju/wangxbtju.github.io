@@ -1,5 +1,23 @@
 main:
 
+  - title: "Evaluating the Expressive Appropriateness of Speech in Rich Contexts."
+    authors: "Tianrui Wang, Ziyang Ma, Yizhou Peng, Haoyu Wang, Zhikang Niu, Zikang Huang, Yihao Wu, Yi-Wen Chao, Yu Jiang, Yuheng Lu, Guanrou Yang, Xuanchen Li, Hexin Liu, Chunyu Qiang, Cheng Gong, Yifan Yang, Tianchi Liu, Junyu Wang, Nana Hou, Meng Ge, Fuming You, Yang Wei, Zhongqian Sun, Hu Haifeng, <span style='font-weight: 900'>Xiaobao Wang</span>*, Eng Siong Chng, Xie Chen, Longbiao Wang*, Jianwu Dang. "
+    conference_short: ACL
+    conference: ACL 2026. (Oral, Rating 10, Top 1%)
+    year: 2026
+    # pdf: https://openreview.net/forum?id=FwKFjBX0PK
+    # code: 
+    # page: https://openreview.net/pdf?id=FwKFjBX0PK
+
+  - title: "LPM-Aug: Latent Pathology-Informed Multimodal Augmentation for Generalized Cognitive Decline Detection via Speech. "
+    authors: "<span style='font-weight: 900'>Xiaobao Wang</span>, Bin Wen, Xiao Wei, et. al."
+    conference_short: ITAC
+    conference: IEEE Transactions on Affective Computing, 2026. (SCI 一区 TOP)
+    year: 2026
+    # pdf: https://openreview.net/forum?id=FwKFjBX0PK
+    # code: 
+    # page: https://openreview.net/pdf?id=FwKFjBX0PK
+    
   - title: "Federated Graph-Level Clustering Network with Dual Knowledge Separation."
     authors: "<span style='font-weight: 900'>Xiaobao Wang</span>, Ronghao Fu, Di Jin."
     conference_short: ICLR
