@@ -25,10 +25,17 @@ Xiaobao Wang (王晓宝) is currently an associate professor in Tianjin Universi
 
 
 ## Awards {#awards}
-- **2021 Global Top 100 Chinese Rising Stars in Artificial Intelligence** 
-- **The 10th China National Conference on Social Media Processing (SMP), best paper award, 2022**
-- **Excellent PhD graduate of Tianjin University, 2022**
-- **Excellent PhD Thesis of Tianjin University, 2022**
+
+- **2021年百度全球Al华人新星百强榜（全球共100名）**
+- **2025年吴文俊人工智能自然科学二等奖（3/5）**
+- **天津大学科技领军创新人才培育“启明计划”入选者**
+- **第十届全国社会媒体处理大会（SMP 2022）最佳论文奖（通讯作者）**
+- **ACL 2026 最佳论文奖候选（通讯作者）**
+- **滴滴盖亚学者**
+
+
+## 合作企业 {#company}
+- **与华为、滴滴、中兴、中国电信研究院、快手等头部企业保持紧密合作**
 
 
 ## Publications (*Corresponding author) {#publications}
