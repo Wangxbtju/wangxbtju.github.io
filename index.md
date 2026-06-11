@@ -34,7 +34,7 @@ Xiaobao Wang (王晓宝) is currently an associate professor in Tianjin Universi
 - **滴滴盖亚学者**
 
 
-## 合作企业 {#company}
+## Collaborator {#Collaborator}
 - **与华为、滴滴、中兴、中国电信研究院、快手等头部企业保持紧密合作**
 
 
