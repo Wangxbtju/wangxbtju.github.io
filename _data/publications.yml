@@ -1,7 +1,40 @@
 main:
+  - title: "SAFE-FEC: Semantically Constrained Adversarial Frontier Evolution for Factual Error Correction. "
+    authors: "<span style='font-weight: 900'>Xiaobao Wang</span>, Lei Zhu, Jianbiao Yang, Chenyang Wang, Longbiao Wang, Jianwu Dang"
+    conference_short: NeurIPS
+    conference: 40th Conference on Neural Information Processing Systems. (CCF-A类会议)
+    year: 2026
+    # pdf: 
+    # code:  
+    # page: 
+  
+  - title: "Towards Universal Black-box Attacks on Graph Neural Networks."
+    authors: "Runze Li, Di Jin*, <span style='font-weight: 900'>Xiaobao Wang</span>*, Bingdao Feng, Dongxiao He"
+    conference_short: NeurIPS
+    conference: "40th Conference on Neural Information Processing Systems. (CCF-A类会议)"
+    year: 2026
+    # pdf: 
+    # code:  
+    # page: 
 
+  - title: "A Graph Foundation Model for Unified Clustering."
+    authors: "Renda Han, <span style='font-weight: 900'>Xiaobao Wang</span>*, Longbiao Wang, Dayu Hu, Ronghao Fu, Di Jin"
+    conference_short: NeurIPS
+    conference: "40th Conference on Neural Information Processing Systems. (CCF-A类会议, Spotlight 0.95%)"
+    year: 2026
+    # pdf: 
+    # code:  
+    # page: 
   
-  
+  - title: "MDCD: Meta-Learning Driven Conditional Diffusion for User Cold-Start in Conversational Recommendation."
+    authors: "Di Jin, Runze Li, Jiaqi Cui, <span style='font-weight: 900'>Xiaobao Wang</span>*, Witold Pedrycz, Dongxiao He*"
+    conference_short: TOIS
+    conference: "ACM Transactions on Information Systems. (CCF-A类期刊)"
+    year: 2026
+    # pdf: 
+    # code:  
+    # page: 
+    
   - title: "Evaluating the Expressive Appropriateness of Speech in Rich Contexts."
     authors: "Tianrui Wang, Ziyang Ma, Yizhou Peng, Haoyu Wang, Zhikang Niu, Zikang Huang, Yihao Wu, Yi-Wen Chao, Yu Jiang, Yuheng Lu, Guanrou Yang, Xuanchen Li, Hexin Liu, Chunyu Qiang, Cheng Gong, Yifan Yang, Tianchi Liu, Junyu Wang, Nana Hou, Meng Ge, Fuming You, Yang Wei, Zhongqian Sun, Hu Haifeng, <span style='font-weight: 900'>Xiaobao Wang</span>*, Eng Siong Chng, Xie Chen, Longbiao Wang*, Jianwu Dang. "
     conference_short: ACL
