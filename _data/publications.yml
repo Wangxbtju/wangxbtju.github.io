@@ -1,22 +1,24 @@
 main:
 
+  
+  
   - title: "Evaluating the Expressive Appropriateness of Speech in Rich Contexts."
     authors: "Tianrui Wang, Ziyang Ma, Yizhou Peng, Haoyu Wang, Zhikang Niu, Zikang Huang, Yihao Wu, Yi-Wen Chao, Yu Jiang, Yuheng Lu, Guanrou Yang, Xuanchen Li, Hexin Liu, Chunyu Qiang, Cheng Gong, Yifan Yang, Tianchi Liu, Junyu Wang, Nana Hou, Meng Ge, Fuming You, Yang Wei, Zhongqian Sun, Hu Haifeng, <span style='font-weight: 900'>Xiaobao Wang</span>*, Eng Siong Chng, Xie Chen, Longbiao Wang*, Jianwu Dang. "
     conference_short: ACL
     conference: ACL 2026. (Oral, Rating 10, Top 1%)
     year: 2026
-    # pdf: https://openreview.net/forum?id=FwKFjBX0PK
-    # code: 
-    # page: https://openreview.net/pdf?id=FwKFjBX0PK
+    pdf: https://aclanthology.org/2026.acl-long.411.pdf
+    code:  https://wangtianrui.github.io/ceaeval/
+    page: https://aclanthology.org/2026.acl-long.411/
 
   - title: "LPM-Aug: Latent Pathology-Informed Multimodal Augmentation for Generalized Cognitive Decline Detection via Speech. "
     authors: "<span style='font-weight: 900'>Xiaobao Wang</span>, Bin Wen, Xiao Wei, et. al."
     conference_short: ITAC
     conference: IEEE Transactions on Affective Computing, 2026. (SCI 一区 TOP)
     year: 2026
-    # pdf: https://openreview.net/forum?id=FwKFjBX0PK
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11489483
     # code: 
-    # page: https://openreview.net/pdf?id=FwKFjBX0PK
+    page: https://ieeexplore.ieee.org/abstract/document/11489483
     
   - title: "Federated Graph-Level Clustering Network with Dual Knowledge Separation."
     authors: "<span style='font-weight: 900'>Xiaobao Wang</span>, Ronghao Fu, Di Jin."
@@ -32,36 +34,36 @@ main:
     conference_short: WWW
     conference: ACM TheWebConf 2026. (CCF-A类会议长文)
     year: 2026
-    # pdf: 
+    pdf: https://dl.acm.org/doi/epdf/10.1145/3774904.3792108
     # code: 
-    # page: 
+    page: https://dl.acm.org/doi/abs/10.1145/3774904.3792108
 
   - title: "A Unified Graph Clustering Network."
     authors: "Renbiao Fu, <span style='font-weight: 900'>Xiaobao Wang*</span>, Longbiao Wang*, Wenxin Zhang, Ronghao Fu, Kaiming Wang, Zeyu Zhang and Kuntharrgyal Khysru."
     conference_short: WWW
     conference: ACM TheWebConf 2026. (CCF-A类会议长文)
     year: 2026
-    # pdf: 
+    pdf: https://dl.acm.org/doi/epdf/10.1145/3774904.3792266
     # code: 
-    # page:  
+    page:  https://dl.acm.org/doi/abs/10.1145/3774904.3792266
 
   - title: "Cross-Type Semantic Alignment for Multi-Type Anomaly Detection in Heterogeneous Graphs."
     authors: "Di Jin, Xiao Huang, <span style='font-weight: 900'>Xiaobao Wang*</span>, Fengyu Yan, Luzhi Wang and Hongxiang Liang."
     conference_short: WWW
     conference: ACM TheWebConf 2026. (CCF-A类会议长文)
     year: 2026
-    # pdf: 
+    pdf: https://dl.acm.org/doi/epdf/10.1145/3774904.3792369
     # code: 
-    # page: 
+    page: https://dl.acm.org/doi/abs/10.1145/3774904.3792369
 
   - title: "Unveiling Backdoor Propagation in Graphs: Neuron-Centric Defense Mechanisms."
     authors: "Di Jin, Bingdao Feng, <span style='font-weight: 900'>Xiaobao Wang*</span>, Yuxiang Zhang, Zechuan Zhang, Liang Yang, Dongxiao He and Zhen Wang."
     conference_short: WWW
     conference: ACM TheWebConf 2026. (CCF-A类会议长文)
     year: 2026
-    # pdf: 
+    pdf: https://dl.acm.org/doi/epdf/10.1145/3774904.3792403
     # code: 
-    # page: 
+    page: https://dl.acm.org/doi/abs/10.1145/3774904.3792403
 
   - title: "Unveiling Fine-grained Deceptive Patterns in Multi-modal Fake News: An Explainable Neuro-Symbolic Framework with LVLMs."
     authors: "Dongxiao He, Yiqi Dong, <span style='font-weight: 900'>Xiaobao Wang*</span>, Meng Ge, Carl Yang, Di Jin*, Witold Pedrycz. "
@@ -86,27 +88,27 @@ main:
     conference_short: AAAI
     conference: The 40th Annual AAAI Conference on Artificial Intelligence‌(CCF-A类会议长文, Oral)
     year: 2026
-    # pdf: 
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/38617/42579
     # code:
-    # page: 
+    page: https://ojs.aaai.org/index.php/AAAI/article/view/38617
 
   - title: "Structure-Enhanced Adapter for Self-Supervised Heterogeneous Graph Learning"
     authors: "Fengyu Yan, Di Jin*, <span style='font-weight: 900'>Xiaobao Wang*</span>, Qianhua Tang, Dongxiao He."
     conference_short: AAAI
     conference: The 40th Annual AAAI Conference on Artificial Intelligence‌(CCF-A类会议长文)
     year: 2026
-    # pdf: 
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/39966/43927
     # code:
-    # page: 
+    page: https://ojs.aaai.org/index.php/AAAI/article/view/39966
     
   - title: "Mitigating Noise and Imbalance in Social Governance Graphs for Multi-Type Risk Assessment"
     authors: "Di Jin, Haotian Zhao, <span style='font-weight: 900'>Xiaobao Wang*</span>, Fengyu Yan, Dongxiao He"
     conference_short: AAAI
     conference: The 40th Annual AAAI Conference on Artificial Intelligence‌(CCF-A类会议长文)
     year: 2026
-    # pdf: 
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/38519/42481
     # code:
-    # page: 
+    page: https://ojs.aaai.org/index.php/AAAI/article/view/38519
 
   - title: "Sentiment Variation-Aware Sentiment Spike Explanation during COVID-19 Epidemic."
     authors: "Yawen Li, <span style='font-weight: 900'>Xiaobao Wang*</span>, Bin Wen, Di Jin, Junping Du."
@@ -296,7 +298,7 @@ main:
     conference_short: MM
     conference: The 32nd ACM International Conference on Multimedia. (CCF-A类会议长文)
     year: 2024
-    # pdf: 
+    pdf: https://dl.acm.org/doi/epdf/10.1145/3664647.3681259
     # code: 
     page: https://dl.acm.org/doi/10.1145/3664647.3681259 
 
@@ -305,7 +307,7 @@ main:
     conference_short: Neural <br>Networks
     conference: Neural Networks-2024. (SCI一区TOP期刊)
     year: 2024
-    # pdf: 
+    pdf: https://www.sciencedirect.com/getaccess/pii/S0893608024005926/purchase
     # code: 
     page: https://www.sciencedirect.com/science/article/abs/pii/S0893608024005926
 
